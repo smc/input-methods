@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="ml-remington-ico.svg">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.75934288"
+     inkscape:cx="470.06095"
+     inkscape:cy="586.67533"
+     inkscape:document-units="px"
+     inkscape:current-layer="g3620"
+     showgrid="false"
+     inkscape:window-width="1024"
+     inkscape:window-height="720"
+     inkscape:window-x="-3"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:none"
+       id="rect3626"
+       width="575.75482"
+       height="575.75482"
+       x="84.169838"
+       y="238.30368"
+       inkscape:export-filename="/home/adhil/Desktop/ ml-remington_64.png"
+       inkscape:export-xdpi="10.004258"
+       inkscape:export-ydpi="10.004258" />
+    <g
+       id="g3620"
+       transform="translate(-169.07781,905.71271)"
+       inkscape:export-filename="/home/adhil/Desktop/re.png"
+       inkscape:export-xdpi="20.01"
+       inkscape:export-ydpi="20.01">
+      <path
+         sodipodi:nodetypes="cccccccccc"
+         id="rect3603"
+         d="m 479.14068,-616.82849 c -43.4955,8.35869 -78.82119,25.90316 -105.96875,52.59375 l 0,-47.5625 -66.28125,0 c 2.34901,85.17009 1.17116,169.63482 -1.3125,254.5625 l 63.90625,0 0,-2.96875 c -1.4e-4,-61.8506 13.22891,-110.1382 39.6875,-144.84375 19.69083,-25.95599 43.02435,-40.61154 69.96875,-44.03125 l 0,-67.75 z"
+         style="fill:#3139ae;fill-opacity:0.86887398999999998;stroke:none"
+         inkscape:export-filename="/home/adhil/Desktop/ ml-remington_64.png"
+         inkscape:export-xdpi="10.004258"
+         inkscape:export-ydpi="10.004258" />
+      <path
+         sodipodi:nodetypes="cccsccccccccccccccc"
+         style="font-size:1055.58850097999993523px;font-style:normal;font-weight:normal;fill:#828282;fill-opacity:1;stroke:none;font-family:Arial Rounded MT Bold;-inkscape-font-specification:Arial Rounded MT Bold"
+         d="m 543.70318,-622.54724 c -20.04861,6e-5 -38.82708,1.41112 -56.34375,4.25 l 0,68.53125 c 1.42146,-0.0595 2.84065,-0.12498 4.28125,-0.125 41.23362,4.1e-4 61.87468,32.30681 61.875,96.90625 -3.2e-4,91.05848 -61.36058,175.59305 -184.03125,253.59375 l 0,-149.59375 -63.90625,0 0,212.46875 471.09375,0 0,-223.6875 c -5.5e-4,-174.90017 -77.65477,-262.34326 -232.96875,-262.34375 z m 29.90625,61.84375 c 91.40143,13.40144 137.09327,80.23473 137.09375,200.5 l 0,165.4375 -231.9375,0 c 49.82403,-37.11044 87.97873,-81.77022 114.4375,-134 22.67827,-43.29539 33.9996,-83.17017 34,-119.59375 -4e-4,-58.07074 -17.85806,-95.50616 -53.59375,-112.34375 z"
+         id="path3613"
+         inkscape:export-filename="/home/adhil/Desktop/ ml-remington_64.png"
+         inkscape:export-xdpi="10.004258"
+         inkscape:export-ydpi="10.004258" />
+    </g>
+  </g>
+</svg>

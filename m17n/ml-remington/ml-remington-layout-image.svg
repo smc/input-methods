@@ -1,0 +1,2779 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: CorelDRAW -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xml:space="preserve"
+   width="799px"
+   height="385px"
+   style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd"
+   viewBox="0 0 800 384"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="ml-remington.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.1"><title
+   id="title3478">ml-remington</title><metadata
+   id="metadata872"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>ml-remington</dc:title><dc:date>2010-09-23</dc:date><dc:creator><cc:Agent><dc:title>Sebin Abraham Jacob</dc:title></cc:Agent></dc:creator><dc:rights><cc:Agent><dc:title>Some Rights Reserved, CC-BY-SA</dc:title></cc:Agent></dc:rights><dc:publisher><cc:Agent><dc:title>Swathanthra Malayalam Computing</dc:title></cc:Agent></dc:publisher><dc:source>http://upload.wikimedia.org/wikipedia/commons/3/3a/Qwerty.svg</dc:source><dc:relation>Derivative Work</dc:relation><dc:language>Malayalam</dc:language><dc:subject><rdf:Bag><rdf:li>Remington</rdf:li><rdf:li>Typewriter</rdf:li><rdf:li>Keyboard</rdf:li><rdf:li>Layout</rdf:li><rdf:li>Malayalam</rdf:li></rdf:Bag></dc:subject><dc:description>Remington typewriter keyboard layout for inputting Unicode Malayalam</dc:description><dc:contributor><cc:Agent><dc:title>Sebin Abraham Jacob</dc:title></cc:Agent></dc:contributor><cc:license
+         rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" /></cc:Work><cc:License
+       rdf:about="http://creativecommons.org/licenses/by-sa/3.0/"><cc:permits
+         rdf:resource="http://creativecommons.org/ns#Reproduction" /><cc:permits
+         rdf:resource="http://creativecommons.org/ns#Distribution" /><cc:requires
+         rdf:resource="http://creativecommons.org/ns#Notice" /><cc:requires
+         rdf:resource="http://creativecommons.org/ns#Attribution" /><cc:permits
+         rdf:resource="http://creativecommons.org/ns#DerivativeWorks" /><cc:requires
+         rdf:resource="http://creativecommons.org/ns#ShareAlike" /></cc:License></rdf:RDF></metadata><sodipodi:namedview
+   inkscape:window-height="720"
+   inkscape:window-width="1024"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   guidetolerance="10.0"
+   gridtolerance="10.0"
+   objecttolerance="10.0"
+   borderopacity="1.0"
+   bordercolor="#666666"
+   pagecolor="#ffffff"
+   id="base"
+   showgrid="false"
+   inkscape:zoom="1.1796106"
+   inkscape:cx="384.6646"
+   inkscape:cy="192.5"
+   inkscape:window-x="-3"
+   inkscape:window-y="-3"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer 1" />
+ <defs
+   id="defs4">
+  <style
+   type="text/css"
+   id="style6">
+   
+    .str0 {stroke:#202326;stroke-width:0}
+    .str1 {stroke:#2B2828;stroke-width:0}
+    .str2 {stroke:#2B2828;stroke-width:0}
+    .fil10 {fill:none}
+    .fil9 {fill:#2B2828}
+    .fil1 {fill:#97C5D5}
+    .fil5 {fill:#9FAACA}
+    .fil4 {fill:#A8D1B1}
+    .fil7 {fill:#A97CA9}
+    .fil6 {fill:#E8A8A5}
+    .fil3 {fill:#EDC07D}
+    .fil8 {fill:#F1EFBE}
+    .fil0 {fill:#F5F6F7}
+    .fil2 {fill:#FFFFFF}
+    .fnt4 {font-weight:normal;font-size:8;font-family:Arial}
+    .fnt1 {font-weight:normal;font-size:9;font-family:Arial}
+    .fnt2 {font-weight:normal;font-size:12;font-family:Arial}
+    .fnt3 {font-weight:normal;font-size:13;font-family:Arial}
+    .fnt0 {font-weight:normal;font-size:18;font-family:Arial}
+   
+  </style>
+ </defs>
+ <g
+   id="Layer 1">
+  <path
+   class="fil0 str0"
+   d="M34 16l729 0c13,0 23,9 23,22l0 192c0,12 -10,23 -23,23l-729 0c-14,0 -25,-11 -25,-23l0 -192c0,-13 11,-22 25,-22z"
+   id="path9" />
+  <path
+   class="fil1 str0"
+   d="M47 96l20 0c1,0 3,1 3,3l0 17c0,2 -2,3 -3,3l-20 0c-2,0 -3,-1 -3,-3l0 -17c0,-2 1,-3 3,-3z"
+   id="path11" />
+  <path
+   class="fil1 str0"
+   d="M77 96l20 0c2,0 3,1 3,3l0 17c0,2 -1,3 -3,3l-20 0c-2,0 -3,-1 -3,-3l0 -17c0,-2 1,-3 3,-3z"
+   id="path13" />
+  <path
+   class="fil1 str0"
+   d="M106 96l20 0c2,0 3,1 3,3l0 17c0,2 -1,3 -3,3l-20 0c-1,0 -2,-1 -2,-3l0 -17c0,-2 1,-3 2,-3z"
+   id="path15" />
+  <path
+   class="fil1 str0"
+   d="M136 96l20 0c2,0 3,1 3,3l0 17c0,2 -1,3 -3,3l-20 0c-2,0 -3,-1 -3,-3l0 -17c0,-2 1,-3 3,-3z"
+   id="path17" />
+  <path
+   class="fil1 str0"
+   d="M166 96l20 0c2,0 3,1 3,3l0 17c0,2 -1,3 -3,3l-20 0c-1,0 -3,-1 -3,-3l0 -17c0,-2 2,-3 3,-3z"
+   id="path19" />
+  <path
+   class="fil1 str0"
+   d="M196 96l19 0c2,0 3,1 3,3l0 17c0,2 -1,3 -3,3l-19 0c-1,0 -3,-1 -3,-3l0 -17c0,-2 2,-3 3,-3z"
+   id="path21" />
+  <path
+   class="fil1 str0"
+   d="M225 96l20 0c2,0 3,1 3,3l0 17c0,2 -1,3 -3,3l-20 0c-1,0 -3,-1 -3,-3l0 -17c0,-2 2,-3 3,-3z"
+   id="path23" />
+  <path
+   class="fil1 str0"
+   d="M255 96l20 0c2,0 3,1 3,3l0 17c0,2 -1,3 -3,3l-20 0c-1,0 -3,-1 -3,-3l0 -17c0,-2 2,-3 3,-3z"
+   id="path25" />
+  <path
+   class="fil1 str0"
+   d="M285 96l19 0c2,0 3,1 3,3l0 17c0,2 -1,3 -3,3l-19 0c-1,0 -3,-1 -3,-3l0 -17c0,-2 2,-3 3,-3z"
+   id="path27" />
+  <path
+   class="fil1 str0"
+   d="M314 96l20 0c2,0 3,1 3,3l0 17c0,2 -1,3 -3,3l-20 0c-1,0 -3,-1 -3,-3l0 -17c0,-2 2,-3 3,-3z"
+   id="path29" />
+  <path
+   class="fil1 str0"
+   d="M344 96l20 0c2,0 3,1 3,3l0 17c0,2 -1,3 -3,3l-20 0c-1,0 -3,-1 -3,-3l0 -17c0,-2 2,-3 3,-3z"
+   id="path31" />
+  <path
+   class="fil1 str0"
+   d="M374 96l20 0c1,0 2,1 2,3l0 17c0,2 -1,3 -2,3l-20 0c-1,0 -3,-1 -3,-3l0 -17c0,-2 2,-3 3,-3z"
+   id="path33" />
+  <path
+   class="fil1 str0"
+   d="M403 96l20 0c2,0 3,1 3,3l0 17c0,2 -1,3 -3,3l-20 0c-1,0 -2,-1 -2,-3l0 -17c0,-2 1,-3 2,-3z"
+   id="path35" />
+  <path
+   class="fil1 str0"
+   d="M433 96l20 0c2,0 3,1 3,3l0 17c0,2 -1,3 -3,3l-20 0c-1,0 -2,-1 -2,-3l0 -17c0,-2 1,-3 2,-3z"
+   id="path37" />
+  <path
+   class="fil1 str0"
+   d="M463 96l20 0c2,0 3,1 3,3l0 17c0,2 -1,3 -3,3l-20 0c-1,0 -2,-1 -2,-3l0 -17c0,-2 1,-3 2,-3z"
+   id="path39" />
+  <path
+   class="fil1 str0"
+   d="M95 121l19 0c2,0 3,1 3,3l0 18c0,1 -1,3 -3,3l-19 0c-1,0 -3,-2 -3,-3l0 -18c0,-2 2,-3 3,-3z"
+   id="path41" />
+  <path
+   class="fil1 str0"
+   d="M124 121l20 0c2,0 3,1 3,3l0 18c0,1 -1,3 -3,3l-20 0c-1,0 -3,-2 -3,-3l0 -18c0,-2 2,-3 3,-3z"
+   id="path43" />
+  <path
+   class="fil1 str0"
+   d="M154 121l20 0c2,0 3,1 3,3l0 18c0,1 -1,3 -3,3l-20 0c-1,0 -3,-2 -3,-3l0 -18c0,-2 2,-3 3,-3z"
+   id="path45" />
+  <path
+   class="fil1 str0"
+   d="M184 121l19 0c2,0 3,1 3,3l0 18c0,1 -1,3 -3,3l-19 0c-1,0 -3,-2 -3,-3l0 -18c0,-2 2,-3 3,-3z"
+   id="path47" />
+  <path
+   class="fil1 str0"
+   d="M213 121l20 0c2,0 3,1 3,3l0 18c0,1 -1,3 -3,3l-20 0c-1,0 -2,-2 -2,-3l0 -18c0,-2 1,-3 2,-3z"
+   id="path49" />
+  <path
+   class="fil1 str0"
+   d="M243 121l20 0c2,0 3,1 3,3l0 18c0,1 -1,3 -3,3l-20 0c-1,0 -2,-2 -2,-3l0 -18c0,-2 1,-3 2,-3z"
+   id="path51" />
+  <path
+   class="fil1 str0"
+   d="M273 121l20 0c2,0 3,1 3,3l0 18c0,1 -1,3 -3,3l-20 0c-1,0 -2,-2 -2,-3l0 -18c0,-2 1,-3 2,-3z"
+   id="path53" />
+  <path
+   class="fil1 str0"
+   d="M302 121l20 0c2,0 3,1 3,3l0 18c0,1 -1,3 -3,3l-20 0c-1,0 -2,-2 -2,-3l0 -18c0,-2 1,-3 2,-3z"
+   id="path55" />
+  <path
+   class="fil1 str0"
+   d="M332 121l20 0c2,0 3,1 3,3l0 18c0,1 -1,3 -3,3l-20 0c-1,0 -2,-2 -2,-3l0 -18c0,-2 1,-3 2,-3z"
+   id="path57" />
+  <path
+   class="fil1 str0"
+   d="M362 121l20 0c2,0 3,1 3,3l0 18c0,1 -1,3 -3,3l-20 0c-1,0 -2,-2 -2,-3l0 -18c0,-2 1,-3 2,-3z"
+   id="path59" />
+  <path
+   class="fil1 str0"
+   d="M392 121l19 0c2,0 3,1 3,3l0 18c0,1 -1,3 -3,3l-19 0c-1,0 -2,-2 -2,-3l0 -18c0,-2 1,-3 2,-3z"
+   id="path61" />
+  <path
+   class="fil1 str0"
+   d="M421 121l20 0c2,0 3,1 3,3l0 18c0,1 -1,3 -3,3l-20 0c-1,0 -2,-2 -2,-3l0 -18c0,-2 1,-3 2,-3z"
+   id="path63" />
+  <path
+   class="fil1 str0"
+   d="M103 147l19 0c1,0 3,1 3,2l0 19c0,1 -2,2 -3,2l-19 0c-2,0 -3,-1 -3,-2l0 -19c0,-1 1,-2 3,-2z"
+   id="path65" />
+  <path
+   class="fil1 str0"
+   d="M132 147l20 0c1,0 3,1 3,2l0 19c0,1 -2,2 -3,2l-20 0c-2,0 -3,-1 -3,-2l0 -19c0,-1 1,-2 3,-2z"
+   id="path67" />
+  <path
+   class="fil1 str0"
+   d="M162 147l20 0c2,0 3,1 3,2l0 19c0,1 -1,2 -3,2l-20 0c-2,0 -3,-1 -3,-2l0 -19c0,-1 1,-2 3,-2z"
+   id="path69" />
+  <path
+   class="fil1 str0"
+   d="M192 147l19 0c2,0 3,1 3,2l0 19c0,1 -1,2 -3,2l-19 0c-2,0 -3,-1 -3,-2l0 -19c0,-1 1,-2 3,-2z"
+   id="path71" />
+  <path
+   class="fil1 str0"
+   d="M221 147l20 0c2,0 3,1 3,2l0 19c0,1 -1,2 -3,2l-20 0c-2,0 -3,-1 -3,-2l0 -19c0,-1 1,-2 3,-2z"
+   id="path73" />
+  <path
+   class="fil1 str0"
+   d="M251 147l20 0c2,0 3,1 3,2l0 19c0,1 -1,2 -3,2l-20 0c-1,0 -3,-1 -3,-2l0 -19c0,-1 2,-2 3,-2z"
+   id="path75" />
+  <path
+   class="fil1 str0"
+   d="M281 147l19 0c2,0 3,1 3,2l0 19c0,1 -1,2 -3,2l-19 0c-1,0 -3,-1 -3,-2l0 -19c0,-1 2,-2 3,-2z"
+   id="path77" />
+  <path
+   class="fil1 str0"
+   d="M310 147l20 0c2,0 3,1 3,2l0 19c0,1 -1,2 -3,2l-20 0c-1,0 -3,-1 -3,-2l0 -19c0,-1 2,-2 3,-2z"
+   id="path79" />
+  <path
+   class="fil1 str0"
+   d="M340 147l20 0c2,0 3,1 3,2l0 19c0,1 -1,2 -3,2l-20 0c-1,0 -3,-1 -3,-2l0 -19c0,-1 2,-2 3,-2z"
+   id="path81" />
+  <path
+   class="fil1 str0"
+   d="M370 147l20 0c2,0 3,1 3,2l0 19c0,1 -1,2 -3,2l-20 0c-1,0 -3,-1 -3,-2l0 -19c0,-1 2,-2 3,-2z"
+   id="path83" />
+  <path
+   class="fil1 str0"
+   d="M399 147l20 0c2,0 3,1 3,2l0 19c0,1 -1,2 -3,2l-20 0c-1,0 -3,-1 -3,-2l0 -19c0,-1 2,-2 3,-2z"
+   id="path85" />
+  <path
+   class="fil1 str0"
+   d="M113 172l21 0c1,0 2,2 2,3l0 17c0,2 -1,3 -2,3l-21 0c-1,0 -2,-1 -2,-3l0 -17c0,-1 1,-3 2,-3z"
+   id="path87" />
+  <path
+   class="fil1 str0"
+   d="M143 172l21 0c1,0 2,2 2,3l0 17c0,2 -1,3 -2,3l-21 0c-1,0 -2,-1 -2,-3l0 -17c0,-1 1,-3 2,-3z"
+   id="path89" />
+  <path
+   class="fil1 str0"
+   d="M173 172l21 0c1,0 2,2 2,3l0 17c0,2 -1,3 -2,3l-21 0c-1,0 -2,-1 -2,-3l0 -17c0,-1 1,-3 2,-3z"
+   id="path91" />
+  <path
+   class="fil1 str0"
+   d="M233 172l20 0c1,0 2,2 2,3l0 17c0,2 -1,3 -2,3l-20 0c-2,0 -3,-1 -3,-3l0 -17c0,-1 1,-3 3,-3z"
+   id="path93" />
+  <path
+   class="fil1 str0"
+   d="M263 172l20 0c1,0 2,2 2,3l0 17c0,2 -1,3 -2,3l-20 0c-2,0 -3,-1 -3,-3l0 -17c0,-1 1,-3 3,-3z"
+   id="path95" />
+  <path
+   class="fil1 str0"
+   d="M293 172l19 0c1,0 2,2 2,3l0 17c0,2 -1,3 -2,3l-19 0c-2,0 -3,-1 -3,-3l0 -17c0,-1 1,-3 3,-3z"
+   id="path97" />
+  <path
+   class="fil1 str0"
+   d="M322 172l20 0c1,0 2,2 2,3l0 17c0,2 -1,3 -2,3l-20 0c-2,0 -3,-1 -3,-3l0 -17c0,-1 1,-3 3,-3z"
+   id="path99" />
+  <path
+   class="fil1 str0"
+   d="M352 172l20 0c1,0 2,2 2,3l0 17c0,2 -1,3 -2,3l-20 0c-2,0 -3,-1 -3,-3l0 -17c0,-1 1,-3 3,-3z"
+   id="path101" />
+  <path
+   class="fil1 str0"
+   d="M382 172l19 0c1,0 2,2 2,3l0 17c0,2 -1,3 -2,3l-19 0c-2,0 -3,-1 -3,-3l0 -17c0,-1 1,-3 3,-3z"
+   id="path103" />
+  <path
+   class="fil2 str0"
+   d="M47 55l20 0c1,0 3,1 3,3l0 18c0,1 -2,3 -3,3l-20 0c-2,0 -3,-2 -3,-3l0 -18c0,-2 1,-3 3,-3z"
+   id="path105" />
+  <path
+   class="fil3 str0"
+   d="M106 55l20 0c2,0 3,1 3,3l0 18c0,1 -1,3 -3,3l-20 0c-1,0 -2,-2 -2,-3l0 -18c0,-2 1,-3 2,-3z"
+   id="path107" />
+  <path
+   class="fil3 str0"
+   d="M136 55l20 0c2,0 3,1 3,3l0 18c0,1 -1,3 -3,3l-20 0c-2,0 -3,-2 -3,-3l0 -18c0,-2 1,-3 3,-3z"
+   id="path109" />
+  <path
+   class="fil3 str0"
+   d="M166 55l20 0c2,0 3,1 3,3l0 18c0,1 -1,3 -3,3l-20 0c-1,0 -3,-2 -3,-3l0 -18c0,-2 2,-3 3,-3z"
+   id="path111" />
+  <path
+   class="fil3 str0"
+   d="M196 55l19 0c2,0 3,1 3,3l0 18c0,1 -1,3 -3,3l-19 0c-1,0 -3,-2 -3,-3l0 -18c0,-2 2,-3 3,-3z"
+   id="path113" />
+  <path
+   class="fil3 str0"
+   d="M240 54l20 0c1,0 2,2 2,3l0 18c0,2 -1,3 -2,3l-20 0c-2,0 -3,-1 -3,-3l0 -18c0,-1 1,-3 3,-3z"
+   id="path115" />
+  <path
+   class="fil3 str0"
+   d="M270 54l20 0c1,0 2,2 2,3l0 18c0,2 -1,3 -2,3l-20 0c-2,0 -3,-1 -3,-3l0 -18c0,-1 1,-3 3,-3z"
+   id="path117" />
+  <path
+   class="fil3 str0"
+   d="M299 54l20 0c1,0 2,2 2,3l0 18c0,2 -1,3 -2,3l-20 0c-1,0 -2,-1 -2,-3l0 -18c0,-1 1,-3 2,-3z"
+   id="path119" />
+  <path
+   class="fil3 str0"
+   d="M329 54l20 0c1,0 2,2 2,3l0 18c0,2 -1,3 -2,3l-20 0c-2,0 -3,-1 -3,-3l0 -18c0,-1 1,-3 3,-3z"
+   id="path121" />
+  <path
+   class="fil3 str0"
+   d="M373 54l20 0c1,0 2,2 2,3l0 18c0,2 -1,3 -2,3l-20 0c-2,0 -3,-1 -3,-3l0 -18c0,-1 1,-3 3,-3z"
+   id="path123" />
+  <path
+   class="fil3 str0"
+   d="M402 54l20 0c1,0 2,2 2,3l0 18c0,2 -1,3 -2,3l-20 0c-2,0 -3,-1 -3,-3l0 -18c0,-1 1,-3 3,-3z"
+   id="path125" />
+  <path
+   class="fil3 str0"
+   d="M432 54l20 0c1,0 2,2 2,3l0 18c0,2 -1,3 -2,3l-20 0c-2,0 -3,-1 -3,-3l0 -18c0,-1 1,-3 3,-3z"
+   id="path127" />
+  <path
+   class="fil3 str0"
+   d="M462 54l20 0c1,0 2,2 2,3l0 18c0,2 -1,3 -2,3l-20 0c-2,0 -3,-1 -3,-3l0 -18c0,-1 1,-3 3,-3z"
+   id="path129" />
+  <path
+   class="fil2 str0"
+   d="M521 96l20 0c1,0 2,1 2,2l0 18c0,1 -1,2 -2,2l-20 0c-2,0 -3,-1 -3,-2l0 -18c0,-1 1,-2 3,-2z"
+   id="path131" />
+  <path
+   class="fil2 str0"
+   d="M551 96l20 0c1,0 2,1 2,2l0 18c0,1 -1,2 -2,2l-20 0c-2,0 -3,-1 -3,-2l0 -18c0,-1 1,-2 3,-2z"
+   id="path133" />
+  <path
+   class="fil2 str0"
+   d="M581 96l19 0c1,0 2,1 2,2l0 18c0,1 -1,2 -2,2l-19 0c-2,0 -3,-1 -3,-2l0 -18c0,-1 1,-2 3,-2z"
+   id="path135" />
+  <path
+   class="fil2 str0"
+   d="M519 54l20 0c2,0 3,2 3,3l0 18c0,2 -1,3 -3,3l-20 0c-1,0 -3,-1 -3,-3l0 -18c0,-1 2,-3 3,-3z"
+   id="path137" />
+  <path
+   class="fil2 str0"
+   d="M549 54l20 0c2,0 3,2 3,3l0 18c0,2 -1,3 -3,3l-20 0c-1,0 -3,-1 -3,-3l0 -18c0,-1 2,-3 3,-3z"
+   id="path139" />
+  <path
+   class="fil2 str0"
+   d="M579 54l19 0c2,0 3,2 3,3l0 18c0,2 -1,3 -3,3l-19 0c-1,0 -3,-1 -3,-3l0 -18c0,-1 2,-3 3,-3z"
+   id="path141" />
+  <path
+   class="fil2 str0"
+   d="M521 120l20 0c1,0 2,2 2,3l0 18c0,2 -1,3 -2,3l-20 0c-2,0 -3,-1 -3,-3l0 -18c0,-1 1,-3 3,-3z"
+   id="path143" />
+  <path
+   class="fil2 str0"
+   d="M551 120l20 0c1,0 2,2 2,3l0 18c0,2 -1,3 -2,3l-20 0c-2,0 -3,-1 -3,-3l0 -18c0,-1 1,-3 3,-3z"
+   id="path145" />
+  <path
+   class="fil2 str0"
+   d="M581 120l19 0c1,0 2,2 2,3l0 18c0,2 -1,3 -2,3l-19 0c-2,0 -3,-1 -3,-3l0 -18c0,-1 1,-3 3,-3z"
+   id="path147" />
+  <path
+   class="fil4 str0"
+   d="M521 197l20 0c1,0 2,1 2,2l0 19c0,1 -1,2 -2,2l-20 0c-2,0 -3,-1 -3,-2l0 -19c0,-1 1,-2 3,-2z"
+   id="path149" />
+  <path
+   class="fil4 str0"
+   d="M551 197l20 0c1,0 2,1 2,2l0 19c0,1 -1,2 -2,2l-20 0c-2,0 -3,-1 -3,-2l0 -19c0,-1 1,-2 3,-2z"
+   id="path151" />
+  <path
+   class="fil4 str0"
+   d="M581 197l19 0c1,0 2,1 2,2l0 19c0,1 -1,2 -2,2l-19 0c-2,0 -3,-1 -3,-2l0 -19c0,-1 1,-2 3,-2z"
+   id="path153" />
+  <path
+   class="fil4 str0"
+   d="M551 172l20 0c1,0 2,1 2,3l0 17c0,1 -1,3 -2,3l-20 0c-2,0 -3,-2 -3,-3l0 -17c0,-2 1,-3 3,-3z"
+   id="path155" />
+  <path
+   class="fil5 str0"
+   d="M638 96l20 0c2,0 3,1 3,2l0 18c0,1 -1,2 -3,2l-20 0c-1,0 -3,-1 -3,-2l0 -18c0,-1 2,-2 3,-2z"
+   id="path157" />
+  <path
+   class="fil5 str0"
+   d="M668 96l19 0c2,0 3,1 3,2l0 18c0,1 -1,2 -3,2l-19 0c-1,0 -3,-1 -3,-2l0 -18c0,-1 2,-2 3,-2z"
+   id="path159" />
+  <path
+   class="fil5 str0"
+   d="M697 96l20 0c2,0 3,1 3,2l0 18c0,1 -1,2 -3,2l-20 0c-1,0 -3,-1 -3,-2l0 -18c0,-1 2,-2 3,-2z"
+   id="path161" />
+  <path
+   class="fil5 str0"
+   d="M638 120l20 0c2,0 3,2 3,3l0 18c0,2 -1,3 -3,3l-20 0c-1,0 -3,-1 -3,-3l0 -18c0,-1 2,-3 3,-3z"
+   id="path163" />
+  <path
+   class="fil5 str0"
+   d="M668 120l19 0c2,0 3,2 3,3l0 18c0,2 -1,3 -3,3l-19 0c-1,0 -3,-1 -3,-3l0 -18c0,-1 2,-3 3,-3z"
+   id="path165" />
+  <path
+   class="fil5 str0"
+   d="M697 120l20 0c2,0 3,2 3,3l0 18c0,2 -1,3 -3,3l-20 0c-1,0 -3,-1 -3,-3l0 -18c0,-1 2,-3 3,-3z"
+   id="path167" />
+  <path
+   class="fil5 str0"
+   d="M638 146l20 0c2,0 3,1 3,3l0 18c0,2 -1,3 -3,3l-20 0c-1,0 -3,-1 -3,-3l0 -18c0,-2 2,-3 3,-3z"
+   id="path169" />
+  <path
+   class="fil5 str0"
+   d="M668 146l19 0c2,0 3,1 3,3l0 18c0,2 -1,3 -3,3l-19 0c-1,0 -3,-1 -3,-3l0 -18c0,-2 2,-3 3,-3z"
+   id="path171" />
+  <path
+   class="fil5 str0"
+   d="M697 146l20 0c2,0 3,1 3,3l0 18c0,2 -1,3 -3,3l-20 0c-1,0 -3,-1 -3,-3l0 -18c0,-2 2,-3 3,-3z"
+   id="path173" />
+  <path
+   class="fil5 str0"
+   d="M638 172l20 0c2,0 3,1 3,3l0 17c0,1 -1,3 -3,3l-20 0c-1,0 -3,-2 -3,-3l0 -17c0,-2 2,-3 3,-3z"
+   id="path175" />
+  <path
+   class="fil5 str0"
+   d="M668 172l19 0c2,0 3,1 3,3l0 17c0,1 -1,3 -3,3l-19 0c-1,0 -3,-2 -3,-3l0 -17c0,-2 2,-3 3,-3z"
+   id="path177" />
+  <path
+   class="fil5 str0"
+   d="M697 172l20 0c2,0 3,1 3,3l0 17c0,1 -1,3 -3,3l-20 0c-1,0 -3,-2 -3,-3l0 -17c0,-2 2,-3 3,-3z"
+   id="path179" />
+  <path
+   class="fil5 str0"
+   d="M697 197l20 0c2,0 3,1 3,2l0 19c0,1 -1,2 -3,2l-20 0c-1,0 -3,-1 -3,-2l0 -19c0,-1 2,-2 3,-2z"
+   id="path181" />
+  <path
+   class="fil5 str0"
+   d="M727 96l20 0c2,0 3,1 3,2l0 18c0,1 -1,2 -3,2l-20 0c-1,0 -3,-1 -3,-2l0 -18c0,-1 2,-2 3,-2z"
+   id="path183" />
+  <path
+   class="fil1 str0"
+   d="M162 197l-11 0c-2,0 -3,1 -3,3l0 18c0,2 1,3 3,3l11 0 168 0 18 0c0,0 1,-1 1,-3l0 -18c0,-2 -1,-3 -1,-3l-18 0 -168 0z"
+   id="path185" />
+  <path
+   class="fil6 str0"
+   d="M391 197l19 0c1,0 2,1 2,3l0 18c0,2 -1,3 -2,3l-19 0c-2,0 -3,-1 -3,-3l0 -18c0,-2 1,-3 3,-3z"
+   id="path187" />
+  <path
+   class="fil7 str0"
+   d="M420 197l20 0c1,0 2,1 2,3l0 18c0,2 -1,3 -2,3l-20 0c-2,0 -3,-1 -3,-3l0 -18c0,-2 1,-3 3,-3z"
+   id="path189" />
+  <path
+   class="fil5 str0"
+   d="M750 123c0,-1 -1,-3 -3,-3l-20 0c-1,0 -3,2 -3,3l0 44c0,2 2,3 3,3l20 0c2,0 3,-1 3,-3l0 -44z"
+   id="path191" />
+  <path
+   class="fil8 str0"
+   d="M750 175c0,-2 -1,-3 -3,-3l-20 0c-1,0 -3,1 -3,3l0 43c0,1 2,2 3,2l20 0c2,0 3,-1 3,-2l0 -43z"
+   id="path193" />
+  <path
+   class="fil1 str0"
+   d="M202 172l21 0c1,0 2,2 2,3l0 17c0,2 -1,3 -2,3l-21 0c0,0 -1,-1 -1,-3l0 -17c0,-1 1,-3 1,-3z"
+   id="path195" />
+  <path
+   class="fil1 str0"
+   d="M47 145c-2,0 -3,-2 -3,-3l0 -18c0,-2 1,-3 3,-3l38 0c2,0 3,1 3,3l0 18c0,1 -1,3 -3,3l-38 0z"
+   id="path197" />
+  <path
+   class="fil1 str0"
+   d="M47 170c-1,0 -3,-1 -3,-2l0 -19c0,-1 2,-2 3,-2l45 0c2,0 4,1 4,2l0 19c0,1 -2,2 -4,2l-45 0z"
+   id="path199" />
+  <g
+   transform="matrix(0.774557 0 0 0.77345 -210.373 -10.3173)"
+   id="g201">
+   
+
+  </g>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <path
+   class="fil10 str1"
+   d="M561 188l0 -10"
+   id="path305" />
+  <path
+   class="fil9"
+   d="M559 180l2 -3 2 3 -4 0 2 -2 -2 2z"
+   id="path307" />
+  <path
+   class="fil10 str1"
+   d="M561 203l0 11"
+   id="path309" />
+  <path
+   class="fil9"
+   d="M563 212l-2 4 -2 -4 4 0 -2 2 2 -2z"
+   id="path311" />
+  <path
+   class="fil10 str1"
+   d="M585 208l10 0"
+   id="path313" />
+  <path
+   class="fil9"
+   d="M593 207l4 1 -4 2 0 -3 2 1 -2 -1z"
+   id="path315" />
+  <path
+   class="fil10 str1"
+   d="M536 208l-11 0"
+   id="path317" />
+  <path
+   class="fil9"
+   d="M527 210l-3 -2 3 -1 0 3 -2 -2 2 2z"
+   id="path319" />
+  <g
+   transform="matrix(0.774557 0 0 0.77345 331.007 -42.9317)"
+   id="g321">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt1"
+   id="text323">Num</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 331.007 -35.0252)"
+   id="g325">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt1"
+   id="text327">Lock</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 327.049 -19.2122)"
+   id="g329">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt2"
+   id="text331">7</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 327.049 5.49565)"
+   id="g333">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt2"
+   id="text335">4</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 327.049 31.1919)"
+   id="g337">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt2"
+   id="text339">1</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 357.73 -44.9081)"
+   id="g341">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt2"
+   id="text343">/</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 357.73 -19.2122)"
+   id="g345">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt2"
+   id="text347">8</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 357.73 5.49565)"
+   id="g349">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt2"
+   id="text351">5</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 357.73 31.1919)"
+   id="g353">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt2"
+   id="text355">2</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 386.432 -44.9081)"
+   id="g357">
+   <text
+   x="400"
+   y="194"
+   class="fil9 fnt2"
+   id="text359">*</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 386.432 -19.2122)"
+   id="g361">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt2"
+   id="text363">9</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 386.432 5.49565)"
+   id="g365">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt2"
+   id="text367">6</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 386.432 31.1919)"
+   id="g369">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt2"
+   id="text371">3</text>
+
+
+
+  </g>
+  <path
+   class="fil5 str0"
+   d="M638 220c-1,0 -3,-1 -3,-2l0 -19c0,-1 2,-2 3,-2l49 0c2,0 3,1 3,2l0 19c0,1 -1,2 -3,2l-49 0z"
+   id="path373" />
+  <g
+   transform="matrix(0.774557 0 0 0.77345 327.049 56.8878)"
+   id="g375">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt2"
+   id="text377">0</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 416.124 -45.8965)"
+   id="g379">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt2"
+   id="text381">-</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 417.114 -0.434028)"
+   id="g383">
+   <text
+   x="400"
+   y="194"
+   class="fil9 fnt2"
+   id="text385">+</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 239.952 -83.4525)"
+   id="g387">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt1"
+   id="text389">Scroll</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 239.952 -75.546)"
+   id="g391">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt1"
+   id="text393">Lock</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 209.271 -88.3941)"
+   id="g395">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt1"
+   id="text397">Print</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 209.271 -80.4877)"
+   id="g399">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt1"
+   id="text401">Scrn</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 209.271 -72.5812)"
+   id="g403">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt1"
+   id="text405">SysRq</text>
+
+
+
+  </g>
+  <path
+   class="fil10 str1"
+   d="M516 70l26 0"
+   id="path407" />
+  <g
+   transform="matrix(0.774557 0 0 0.77345 268.654 -87.4057)"
+   id="g409">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt1"
+   id="text411">Pause</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 269.644 -73.5692)"
+   id="g413">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt1"
+   id="text415">Break</text>
+
+
+
+  </g>
+  <path
+   class="fil10 str1"
+   d="M576 69l25 0"
+   id="path417" />
+  <g
+   transform="matrix(0.774557 0 0 0.77345 -198.497 -78.5109)"
+   id="g419">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt3"
+   id="text421">F1</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 -169.794 -78.5109)"
+   id="g423">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt3"
+   id="text425">F2</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 -140.103 -78.5109)"
+   id="g427">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt3"
+   id="text429">F3</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 -110.411 -78.5109)"
+   id="g431">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt3"
+   id="text433">F4</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 -65.8731 -78.5109)"
+   id="g435">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt3"
+   id="text437">F5</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 -36.1812 -78.5109)"
+   id="g439">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt3"
+   id="text441">F6</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 -6.48941 -78.5109)"
+   id="g443">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt3"
+   id="text445">F7</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 23.2024 -78.5109)"
+   id="g447">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt3"
+   id="text449">F8</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 66.7503 -78.5109)"
+   id="g451">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt3"
+   id="text453">F9</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 93.4728 -78.5109)"
+   id="g455">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt3"
+   id="text457">F10</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 124.154 -78.5109)"
+   id="g459">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt3"
+   id="text461">F11</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 152.856 -78.5109)"
+   id="g463">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt3"
+   id="text465">F12</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 -258.87 -79.4993)"
+   id="g467">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt1"
+   id="text469">Esc</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 240.942 -38.9784)"
+   id="g471">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt1"
+   id="text473">Home</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 244.901 -13.2822)"
+   id="g475">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt1"
+   id="text477">End</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 271.624 -17.2354)"
+   id="g479">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt1"
+   id="text481">Page</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 271.624 -9.32892)"
+   id="g483">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt1"
+   id="text485">Down</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 272.613 -43.9201)"
+   id="g487">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt1"
+   id="text489">Page</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 272.613 -36.0132)"
+   id="g491">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt1"
+   id="text493">Up</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 212.24 -38.9784)"
+   id="g495">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt1"
+   id="text497">Insert</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 211.25 -13.2822)"
+   id="g499">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt1"
+   id="text501">Delete</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 419.093 49.9697)"
+   id="g503">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt1"
+   id="text505">Enter</text>
+
+
+
+  </g>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <path
+   class="fil10 str1"
+   d="M479 106l-11 0"
+   id="path547" />
+  <path
+   class="fil9"
+   d="M470 108l-4 -2 4 -2 0 4 -2 -2 2 2z"
+   id="path549" />
+  <path
+   class="fil1 str0"
+   d="M410 195c-1,0 -2,-1 -2,-3l0 -17c0,-1 1,-3 2,-3l73 0c2,0 3,2 3,3l0 17c0,2 -1,3 -3,3l-73 0z"
+   id="path551" />
+  <path
+   class="fil8 str0"
+   d="M446 147l-17 0c-2,0 -3,1 -3,2l0 19c0,1 1,2 3,2l54 0c2,0 3,-1 3,-2l0 -44c0,-2 -1,-3 -3,-3l-31 0c-2,0 -3,1 -3,3l0 20c0,2 0,3 -3,3l0 0z"
+   id="path553" />
+  <path
+   class="fil10 str1"
+   d="M467 129l0 11 -10 0"
+   id="path555" />
+  <path
+   class="fil9"
+   d="M458 142l-3 -2 3 -2 0 4 -1 -2 1 2z"
+   id="path557" />
+  <path
+   class="fil1 str0"
+   d="M450 197l33 0c2,0 3,1 3,3l0 18c0,2 -1,3 -3,3l-33 0c-2,0 -3,-1 -3,-3l0 -18c0,-2 1,-3 3,-3z"
+   id="path559" />
+  <path
+   class="fil1 str0"
+   d="M47 195c-1,0 -3,-1 -3,-3 0,-5 0,-11 0,-17 0,-1 2,-3 3,-3 15,0 41,0 57,0 1,0 2,2 2,3 0,6 0,12 0,17 0,2 -1,3 -2,3 -16,0 -42,0 -57,0z"
+   id="path561" />
+  <path
+   class="fil1 str0"
+   d="M47 197l30 0c1,0 2,1 2,3l0 18c0,2 -1,3 -2,3l-30 0c-2,0 -3,-1 -3,-3l0 -18c0,-2 1,-3 3,-3z"
+   id="path563" />
+  <path
+   class="fil6 str0"
+   d="M87 197l19 0c2,0 3,1 3,3l0 18c0,1 -1,3 -3,3l-19 0c-1,0 -3,-2 -3,-3l0 -18c0,-2 2,-3 3,-3z"
+   id="path565" />
+  <path
+   class="fil1 str0"
+   d="M116 197l25 0c1,0 2,1 2,3l0 18c0,1 -1,3 -2,3l-25 0c-1,0 -2,-2 -2,-3l0 -18c0,-2 1,-3 2,-3z"
+   id="path567" />
+  <g
+   transform="matrix(0.774557 0 0 0.77345 150.877 63.8059)"
+   id="g569">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt1"
+   id="text571">Ctrl</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 -252.932 63.8059)"
+   id="g573">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt1"
+   id="text575">Ctrl</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 -185.63 62.8175)"
+   id="g577">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt1"
+   id="text579">Alt</text>
+
+
+
+  </g>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <g
+   transform="matrix(0.774557 0 0 0.77345 -242.045 38.11)"
+   id="g621">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt1"
+   id="text623">Shift</text>
+
+
+
+  </g>
+  <path
+   class="fil10 str2"
+   d="M54 177l-4 4 2 0 0 8 5 0 0 -8 2 0 -5 -4z"
+   id="path625" />
+  <g
+   transform="matrix(0.774557 0 0 0.77345 130.092 38.11)"
+   id="g627">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt1"
+   id="text629">Shift</text>
+
+
+
+  </g>
+  <path
+   class="fil10 str2"
+   d="M417 177l-4 4 2 0 0 8 4 0 0 -8 2 0 -4 -4z"
+   id="path631" />
+  
+  
+  <g
+   transform="matrix(0.774557 0 0 0.77345 -262.829 -18.2238)"
+   id="g641">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt1"
+   id="text643">Tab</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 -247.983 8.46086)"
+   id="g645">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt1"
+   id="text647">Caps</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 -247.983 16.3673)"
+   id="g649">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt1"
+   id="text651">Lock</text>
+
+
+
+  </g>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <g
+   transform="matrix(0.774557 0 0 0.77345 42.0072 45.0281)"
+   id="g717">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt2"
+   id="text719">.</text>
+
+
+
+  </g>
+  
+  
+  
+  <path
+   class="fil10 str1"
+   d="M702 158l10 0"
+   id="path733" />
+  <path
+   class="fil9"
+   d="M711 156l3 2 -3 2 0 -4 1 2 -1 -2z"
+   id="path735" />
+  <path
+   class="fil10 str1"
+   d="M678 137l0 -10"
+   id="path737" />
+  <path
+   class="fil9"
+   d="M676 129l2 -4 2 4 -4 0 2 -2 -2 2z"
+   id="path739" />
+  <path
+   class="fil10 str1"
+   d="M653 158l-10 0"
+   id="path741" />
+  <path
+   class="fil9"
+   d="M645 160l-4 -2 4 -2 0 4 -2 -2 2 2z"
+   id="path743" />
+  <path
+   class="fil10 str1"
+   d="M678 178l0 10"
+   id="path745" />
+  <path
+   class="fil9"
+   d="M680 187l-2 3 -2 -3 4 0 -2 1 2 -1z"
+   id="path747" />
+  <g
+   transform="matrix(0.774557 0 0 0.77345 327.049 43.0513)"
+   id="g749">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt1"
+   id="text751">End</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 327.049 -6.36408)"
+   id="g753">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt1"
+   id="text755">Home</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 386.432 -6.36408)"
+   id="g757">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt1"
+   id="text759">PgUp</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 387.422 43.0513)"
+   id="g761">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt1"
+   id="text763">PgDn</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 386.432 68.7475)"
+   id="g765">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt1"
+   id="text767">Del</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 387.422 55.8994)"
+   id="g769">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt1"
+   id="text771">.</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 328.038 68.7475)"
+   id="g773">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt1"
+   id="text775">Ins</text>
+
+
+
+  </g>
+  <path
+   class="fil9"
+   d="M70 129l0 -3 1 0 0 3 -1 0zm1 -2l2 -1 0 1 9 0 0 1 -9 0 0 1 -2 -2z"
+   id="path777" />
+  <path
+   class="fil9"
+   d="M82 134l0 4 -1 0 0 -4 1 0zm-1 2l-2 2 0 -2 -9 0 0 0 9 0 0 -2 2 2z"
+   id="path779" />
+  <path
+   class="fil1 str0"
+   d="M85 281l20 0c1,0 2,1 2,3l0 18c0,1 -1,3 -2,3l-20 0c-1,0 -3,-2 -3,-3l0 -18c0,-2 2,-3 3,-3z"
+   id="path781" />
+  <path
+   class="fil6 str0"
+   d="M85 312l20 0c1,0 2,1 2,3l0 18c0,1 -1,3 -2,3l-20 0c-1,0 -3,-2 -3,-3l0 -18c0,-2 2,-3 3,-3z"
+   id="path783" />
+  <path
+   class="fil7 str0"
+   d="M85 343l20 0c1,0 2,1 2,2l0 18c0,1 -1,2 -2,2l-20 0c-1,0 -3,-1 -3,-2l0 -18c0,-1 2,-2 3,-2z"
+   id="path785" />
+  <g
+   transform="matrix(0.774557 0 0 0.77345 -196.517 149.789)"
+   id="g787">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt0"
+   id="text789">Typewriter keys</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 -196.517 180.427)"
+   id="g791">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt0"
+   id="text793"
+   style="font-size:18px;font-weight:normal;fill:#2b2828;font-family:Arial">System keys</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 -196.517 211.065)"
+   id="g795">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt0"
+   id="text797">Application key</text>
+
+
+
+  </g>
+  <path
+   class="fil3 str0"
+   d="M248 281l20 0c2,0 3,1 3,3l0 18c0,1 -1,3 -3,3l-20 0c-2,0 -3,-2 -3,-3l0 -18c0,-2 1,-3 3,-3z"
+   id="path799" />
+  <path
+   class="fil5 str0"
+   d="M248 312l20 0c2,0 3,1 3,3l0 18c0,1 -1,3 -3,3l-20 0c-2,0 -3,-2 -3,-3l0 -18c0,-2 1,-3 3,-3z"
+   id="path801" />
+  <path
+   class="fil4 str0"
+   d="M248 343l20 0c2,0 3,1 3,2l0 18c0,1 -1,2 -3,2l-20 0c-2,0 -3,-1 -3,-2l0 -18c0,-1 1,-2 3,-2z"
+   id="path803" />
+  <g
+   transform="matrix(0.774557 0 0 0.77345 -33.2123 149.789)"
+   id="g805">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt0"
+   id="text807">Function keys</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 -33.2123 180.427)"
+   id="g809">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt0"
+   id="text811">Numeric keypad</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 -33.2123 211.065)"
+   id="g813">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt0"
+   id="text815">Cursor control keys</text>
+
+
+
+  </g>
+  <path
+   class="fil8 str0"
+   d="M411 281l20 0c1,0 3,1 3,3l0 18c0,1 -2,3 -3,3l-20 0c-2,0 -3,-2 -3,-3l0 -18c0,-2 1,-3 3,-3z"
+   id="path817" />
+  <path
+   class="fil2 str0"
+   d="M411 312l20 0c1,0 3,1 3,3l0 18c0,1 -2,3 -3,3l-20 0c-2,0 -3,-2 -3,-3l0 -18c0,-2 1,-3 3,-3z"
+   id="path819" />
+  <g
+   transform="matrix(0.774557 0 0 0.77345 130.092 149.789)"
+   id="g821">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt0"
+   id="text823">Enter keys</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 130.092 180.427)"
+   id="g825">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt0"
+   id="text827">Other</text>
+
+
+
+  </g>
+  <path
+   class="fil9"
+   d="M642 71l7 0 0 -3 -7 0 0 3z"
+   id="path829" />
+  <path
+   class="fil10 str1"
+   d="M642 71l7 0 0 -3 -7 0 0 3z"
+   id="path831" />
+  <g
+   transform="matrix(0.774557 0 0 0.77345 340.905 -80.4877)"
+   id="g833">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt4"
+   id="text835">Num</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 340.905 -73.5692)"
+   id="g837">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt4"
+   id="text839">Lock</text>
+
+
+
+  </g>
+  <path
+   class="fil9"
+   d="M683 71l7 0 0 -3 -7 0 0 3z"
+   id="path841" />
+  <path
+   class="fil10 str1"
+   d="M683 71l7 0 0 -3 -7 0 0 3z"
+   id="path843" />
+  <g
+   transform="matrix(0.774557 0 0 0.77345 382.473 -80.4877)"
+   id="g845">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt4"
+   id="text847">Caps</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 382.473 -73.5692)"
+   id="g849">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt4"
+   id="text851">Lock</text>
+
+
+
+  </g>
+  <path
+   class="fil9"
+   d="M724 71l7 0 0 -3 -7 0 0 3z"
+   id="path853" />
+  <path
+   class="fil10 str1"
+   d="M724 71l7 0 0 -3 -7 0 0 3z"
+   id="path855" />
+  <g
+   transform="matrix(0.774557 0 0 0.77345 423.052 -80.4877)"
+   id="g857">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt4"
+   id="text859">Scroll</text>
+
+
+
+  </g>
+  <g
+   transform="matrix(0.774557 0 0 0.77345 423.052 -73.5692)"
+   id="g861">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt4"
+   id="text863">Lock</text>
+
+
+
+  </g>
+  <path
+   class="fil1 str0"
+   d="M356 197l24 0c1,0 2,1 2,3l0 18c0,1 -1,3 -2,3l-24 0c-1,0 -2,-2 -2,-3l0 -18c0,-2 1,-3 2,-3z"
+   id="path865" />
+  <g
+   transform="matrix(0.774557 0 0 0.77345 49.697 62.8175)"
+   id="g867">
+   <text
+   x="400"
+   y="192"
+   class="fil9 fnt1"
+   id="text869">Alt Gr</text>
+
+
+
+  </g>
+ <g
+   id="g9695"><text
+   sodipodi:linespacing="125%"
+   id="text3447"
+   y="105.15765"
+   x="75.616005"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="105.15765"
+     x="75.616005"
+     id="tspan3449"
+     sodipodi:role="line">ഝ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3451"
+   y="115.59265"
+   x="86.835747"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="115.59265"
+     x="86.835747"
+     id="tspan3453"
+     sodipodi:role="line">൧</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3463"
+   y="104.91473"
+   x="104.99656"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="104.91473"
+     x="104.99656"
+     id="tspan3465"
+     sodipodi:role="line">ആ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3467"
+   y="115.82381"
+   x="114.81979"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="115.82381"
+     x="114.81979"
+     id="tspan3469"
+     sodipodi:role="line">൨</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3471"
+   y="104.91473"
+   x="133.36012"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="104.91473"
+     x="133.36012"
+     id="tspan3473"
+     sodipodi:role="line">ഈ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3475"
+   y="116.37182"
+   x="143.18329"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="116.37182"
+     x="143.18329"
+     id="tspan3477"
+     sodipodi:role="line">൩</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3479"
+   y="105.64204"
+   x="166.0873"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="105.64204"
+     x="166.0873"
+     id="tspan3481"
+     sodipodi:role="line">ഊ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3483"
+   y="116.55109"
+   x="177.36501"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="116.55109"
+     x="177.36501"
+     id="tspan3485"
+     sodipodi:role="line">൪</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3487"
+   y="104.91473"
+   x="194.63016"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="104.91473"
+     x="194.63016"
+     id="tspan3489"
+     sodipodi:role="line">ഏ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3491"
+   y="115.27588"
+   x="205.54926"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="115.27588"
+     x="205.54926"
+     id="tspan3493"
+     sodipodi:role="line">൫</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3495"
+   y="104.91473"
+   x="222.63504"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="104.91473"
+     x="222.63504"
+     id="tspan3497"
+     sodipodi:role="line">ഐ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3499"
+   y="116.55109"
+   x="230.45572"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="116.55109"
+     x="230.45572"
+     id="tspan3501"
+     sodipodi:role="line">൬</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3503"
+   y="104.91473"
+   x="253.71835"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="104.91473"
+     x="253.71835"
+     id="tspan3505"
+     sodipodi:role="line">ഓ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3507"
+   y="114.36933"
+   x="266.09195"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="114.36933"
+     x="266.09195"
+     id="tspan3509"
+     sodipodi:role="line">൭</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3511"
+   y="105.64204"
+   x="283.90509"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="105.64204"
+     x="283.90509"
+     id="tspan3513"
+     sodipodi:role="line">ഔ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3515"
+   y="114.36933"
+   x="293.72821"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="114.36933"
+     x="293.72821"
+     id="tspan3517"
+     sodipodi:role="line">൮</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3519"
+   y="115.82381"
+   x="322.81906"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="115.82381"
+     x="322.81906"
+     id="tspan3521"
+     sodipodi:role="line">൯</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3523"
+   y="104.91473"
+   x="312.08932"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="104.91473"
+     x="312.08932"
+     id="tspan3525"
+     sodipodi:role="line">ൊ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3527"
+   y="105.64204"
+   x="342.0867"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="105.64204"
+     x="342.0867"
+     id="tspan3529"
+     sodipodi:role="line">ോ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3531"
+   y="115.82381"
+   x="354.81891"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="115.82381"
+     x="354.81891"
+     id="tspan3533"
+     sodipodi:role="line">൦</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3535"
+   y="104.91473"
+   x="374.62451"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="104.91473"
+     x="374.62451"
+     id="tspan3537"
+     sodipodi:role="line">ഠ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3547"
+   y="115.64454"
+   x="385.01569"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="115.64454"
+     x="385.01569"
+     id="tspan3549"
+     sodipodi:role="line">-</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3555"
+   y="115.82381"
+   x="401.36426"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="115.82381"
+     x="401.36426"
+     id="tspan3557"
+     sodipodi:role="line">ൈ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3563"
+   y="107.82392"
+   x="432.80615"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="107.82392"
+     x="432.80615"
+     id="tspan3565"
+     sodipodi:role="line">ക്‍</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3567"
+   y="118.00568"
+   x="443.54593"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="118.00568"
+     x="443.54593"
+     id="tspan3569"
+     sodipodi:role="line">്</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3571"
+   y="140.55103"
+   x="106.8198"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="140.55103"
+     x="106.8198"
+     id="tspan3573"
+     sodipodi:role="line">ഴ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3575"
+   y="140.55103"
+   x="134.45605"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="140.55103"
+     x="134.45605"
+     id="tspan3577"
+     sodipodi:role="line">ജ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3579"
+   y="141.27832"
+   x="162.8196"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="141.27832"
+     x="162.8196"
+     id="tspan3581"
+     sodipodi:role="line">പ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3583"
+   y="140.55103"
+   x="192.63766"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="140.55103"
+     x="192.63766"
+     id="tspan3585"
+     sodipodi:role="line">ന</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3587"
+   y="139.82378"
+   x="220.27393"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="139.82378"
+     x="220.27393"
+     id="tspan3589"
+     sodipodi:role="line">എ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3591"
+   y="140.55103"
+   x="255.18292"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="140.55103"
+     x="255.18292"
+     id="tspan3593"
+     sodipodi:role="line">റ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3595"
+   y="140.55103"
+   x="281.36465"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="140.55103"
+     x="281.36465"
+     id="tspan3597"
+     sodipodi:role="line">യ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3599"
+   y="141.27832"
+   x="312.63724"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="141.27832"
+     x="312.63724"
+     id="tspan3601"
+     sodipodi:role="line">വ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3603"
+   y="139.82378"
+   x="341.72806"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="139.82378"
+     x="341.72806"
+     id="tspan3605"
+     sodipodi:role="line">ൂ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3607"
+   y="141.27832"
+   x="374.45523"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="141.27832"
+     x="374.45523"
+     id="tspan3609"
+     sodipodi:role="line">ദ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3615"
+   y="138.36925"
+   x="405.72784"
+   style="font-size:15.86339283px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="138.36925"
+     x="405.72784"
+     id="tspan3617"
+     sodipodi:role="line">,</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3619"
+   y="141.27832"
+   x="427.54596"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="141.27832"
+     x="427.54596"
+     id="tspan3621"
+     sodipodi:role="line">ക്ക</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3623"
+   y="130.36928"
+   x="96.638008"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="130.36928"
+     x="96.638008"
+     id="tspan3625"
+     sodipodi:role="line">ഒ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3627"
+   y="130.91721"
+   x="123.71627"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="130.91721"
+     x="123.71627"
+     id="tspan3629"
+     sodipodi:role="line">ഋ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3631"
+   y="129.64201"
+   x="153.36508"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="129.64201"
+     x="153.36508"
+     id="tspan3633"
+     sodipodi:role="line">ഫ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3635"
+   y="131.82381"
+   x="182.45587"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="131.82381"
+     x="182.45587"
+     id="tspan3637"
+     sodipodi:role="line">ന്‍</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3639"
+   y="129.64201"
+   x="214.45578"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="129.64201"
+     x="214.45578"
+     id="tspan3641"
+     sodipodi:role="line">ഇ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3643"
+   y="131.09653"
+   x="242.09204"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="131.09653"
+     x="242.09204"
+     id="tspan3645"
+     sodipodi:role="line">്ര</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3647"
+   y="131.09653"
+   x="272.63742"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="131.09653"
+     x="272.63742"
+     id="tspan3649"
+     sodipodi:role="line">്യ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3651"
+   y="131.09653"
+   x="301.72821"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="131.09653"
+     x="301.72821"
+     id="tspan3653"
+     sodipodi:role="line">്വ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3655"
+   y="129.64201"
+   x="330.09174"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="129.64201"
+     x="330.09174"
+     id="tspan3657"
+     sodipodi:role="line">ൌ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3659"
+   y="131.09653"
+   x="362.81891"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="131.09653"
+     x="362.81891"
+     id="tspan3661"
+     sodipodi:role="line">ധ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3663"
+   y="131.09653"
+   x="393.36426"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="131.09653"
+     x="393.36426"
+     id="tspan3665"
+     sodipodi:role="line">ൃ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3667"
+   y="130.36928"
+   x="421.72781"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="130.36928"
+     x="421.72781"
+     id="tspan3669"
+     sodipodi:role="line">ട്ട</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3694"
+   y="156.55099"
+   x="101.72887"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="156.55099"
+     x="101.72887"
+     id="tspan3696"
+     sodipodi:role="line">ം</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3698"
+   y="165.27823"
+   x="113.3652"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="165.27823"
+     x="113.3652"
+     id="tspan3700"
+     sodipodi:role="line">മ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3702"
+   y="165.45753"
+   x="138.09241"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="165.45753"
+     x="138.09241"
+     id="tspan3704"
+     sodipodi:role="line">െ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3706"
+   y="166.00548"
+   x="170.81956"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="166.00548"
+     x="170.81956"
+     id="tspan3708"
+     sodipodi:role="line">ക</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3710"
+   y="166.00548"
+   x="199.91037"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="166.00548"
+     x="199.91037"
+     id="tspan3712"
+     sodipodi:role="line">ത</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3714"
+   y="165.27823"
+   x="232.63754"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="165.27823"
+     x="232.63754"
+     id="tspan3716"
+     sodipodi:role="line">ര</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3718"
+   y="166.73276"
+   x="260.2738"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="166.73276"
+     x="260.2738"
+     id="tspan3720"
+     sodipodi:role="line">ല</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3722"
+   y="166.73276"
+   x="290.09192"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="166.73276"
+     x="290.09192"
+     id="tspan3724"
+     sodipodi:role="line">ി</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3726"
+   y="164.55098"
+   x="319.18271"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="164.55098"
+     x="319.18271"
+     id="tspan3728"
+     sodipodi:role="line">ു</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3730"
+   y="165.27823"
+   x="346.81897"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="165.27823"
+     x="346.81897"
+     id="tspan3732"
+     sodipodi:role="line">ാ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3742"
+   y="163.09641"
+   x="383.18246"
+   style="font-size:15.86339283px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="163.09641"
+     x="383.18246"
+     id="tspan3744"
+     sodipodi:role="line">.</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3746"
+   y="166.73276"
+   x="405.00061"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="166.73276"
+     x="405.00061"
+     id="tspan3748"
+     sodipodi:role="line">ന്ന</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3750"
+   y="155.8237"
+   x="130.81972"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="155.8237"
+     x="130.81972"
+     id="tspan3752"
+     sodipodi:role="line">േ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3754"
+   y="157.27826"
+   x="161.36505"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="157.27826"
+     x="161.36505"
+     id="tspan3756"
+     sodipodi:role="line">ഖ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3758"
+   y="157.27826"
+   x="191.9104"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="157.27826"
+     x="191.9104"
+     id="tspan3760"
+     sodipodi:role="line">ഥ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3762"
+   y="158.73279"
+   x="220.27396"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="158.73279"
+     x="220.27396"
+     id="tspan3764"
+     sodipodi:role="line">ര്‍</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3766"
+   y="158.00549"
+   x="249.36475"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="158.00549"
+     x="249.36475"
+     id="tspan3768"
+     sodipodi:role="line">ല്‍</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3770"
+   y="158.00549"
+   x="280.63736"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="158.00549"
+     x="280.63736"
+     id="tspan3772"
+     sodipodi:role="line">ീ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3774"
+   y="155.8237"
+   x="309.72815"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="155.8237"
+     x="309.72815"
+     id="tspan3776"
+     sodipodi:role="line">ഉ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3778"
+   y="156.55099"
+   x="338.819"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="156.55099"
+     x="338.819"
+     id="tspan3780"
+     sodipodi:role="line">അ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3782"
+   y="155.8237"
+   x="397.72791"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="155.8237"
+     x="397.72791"
+     id="tspan3784"
+     sodipodi:role="line">ഃ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3786"
+   y="191.45995"
+   x="123.54704"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="191.45995"
+     x="123.54704"
+     id="tspan3788"
+     sodipodi:role="line">ഗ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3790"
+   y="190.0054"
+   x="155.54689"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="190.0054"
+     x="155.54689"
+     id="tspan3792"
+     sodipodi:role="line">ള</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3794"
+   y="191.45995"
+   x="178.81953"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="191.45995"
+     x="178.81953"
+     id="tspan3796"
+     sodipodi:role="line">സ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3798"
+   y="190.0054"
+   x="212.27399"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="190.0054"
+     x="212.27399"
+     id="tspan3800"
+     sodipodi:role="line">ച</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3802"
+   y="191.45995"
+   x="237.72842"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="191.45995"
+     x="237.72842"
+     id="tspan3804"
+     sodipodi:role="line">ണ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3806"
+   y="191.28061"
+   x="271.18289"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="191.28061"
+     x="271.18289"
+     id="tspan3808"
+     sodipodi:role="line">ങ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3810"
+   y="190.55334"
+   x="303.91003"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="190.55334"
+     x="303.91003"
+     id="tspan3812"
+     sodipodi:role="line">ട</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3814"
+   y="192.00789"
+   x="327.90994"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="192.00789"
+     x="327.90994"
+     id="tspan3816"
+     sodipodi:role="line">ഷ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3818"
+   y="190.73268"
+   x="363.5462"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="190.73268"
+     x="363.5462"
+     id="tspan3820"
+     sodipodi:role="line">ഭ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3822"
+   y="191.45995"
+   x="385.91229"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="191.45995"
+     x="385.91229"
+     id="tspan3824"
+     sodipodi:role="line">ഡ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3826"
+   y="181.27814"
+   x="381.00067"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="181.27814"
+     x="381.00067"
+     id="tspan3828"
+     sodipodi:role="line">ഢ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3830"
+   y="181.27814"
+   x="112.63791"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="181.27814"
+     x="112.63791"
+     id="tspan3832"
+     sodipodi:role="line">ഘ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3834"
+   y="182.00542"
+   x="142.63535"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="182.00542"
+     x="142.63535"
+     id="tspan3836"
+     sodipodi:role="line">ള്‍</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3838"
+   y="180.5509"
+   x="173.00137"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="180.5509"
+     x="173.00137"
+     id="tspan3840"
+     sodipodi:role="line">ശ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3842"
+   y="180.55089"
+   x="202.81946"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="180.55089"
+     x="202.81946"
+     id="tspan3844"
+     sodipodi:role="line">ഛ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3846"
+   y="181.27817"
+   x="231.91025"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="181.27817"
+     x="231.91025"
+     id="tspan3848"
+     sodipodi:role="line">ഞ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3850"
+   y="181.27814"
+   x="261.72833"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="181.27814"
+     x="261.72833"
+     id="tspan3852"
+     sodipodi:role="line">ണ്‍</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3854"
+   y="181.27817"
+   x="293.00101"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="181.27817"
+     x="293.00101"
+     id="tspan3856"
+     sodipodi:role="line">റ്റ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3858"
+   y="181.27817"
+   x="321.3645"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="181.27817"
+     x="321.3645"
+     id="tspan3860"
+     sodipodi:role="line">ഹ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3862"
+   y="182.00542"
+   x="351.18262"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="182.00542"
+     x="351.18262"
+     id="tspan3864"
+     sodipodi:role="line">ബ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3548"
+   y="104.91473"
+   x="402.81879"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="104.91473"
+     x="402.81879"
+     id="tspan3550"
+     sodipodi:role="line">ൗ</tspan></text>
+
+<text
+   sodipodi:linespacing="125%"
+   id="text3552"
+   y="158.89343"
+   x="372.9017"
+   style="font-size:15.86339378px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   xml:space="preserve"><tspan
+     y="158.89343"
+     x="372.9017"
+     id="tspan3554"
+     sodipodi:role="line">;</tspan></text>
+
+</g><text
+   xml:space="preserve"
+   style="font-size:8.2613287px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   x="45.84119"
+   y="105.57641"
+   id="text9900"
+   sodipodi:linespacing="125%"><tspan
+     sodipodi:role="line"
+     id="tspan9902"
+     x="45.84119"
+     y="105.57641">ZWJ</tspan></text>
+
+<text
+   xml:space="preserve"
+   style="font-size:8.2613287px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+   x="45.6824"
+   y="115.28666"
+   id="text9904"
+   sodipodi:linespacing="125%"><tspan
+     sodipodi:role="line"
+     id="tspan9906"
+     x="45.6824"
+     y="115.28666">ZWNJ</tspan></text>
+
+</g>
+</svg>

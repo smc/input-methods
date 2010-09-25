@@ -1,0 +1,146 @@
+;; ml-remington.mim -- Malayalam input method for Remington typewriter layout
+;; Copyright (c) 2010 Sebin Abraham Jacob, Swathanthra Malayalam Computing <http://smc.org.in>. All Rights Reserved.
+
+;; This file is part of the m17n contrib; a sub-part of the m17n
+;; library.
+
+;; The library is free software; you can redistribute it and/or
+;; modify it under the terms of the GNU Lesser General Public License
+;; as published by the Free Software Foundation; either version 2.1 of
+;; the License, or (at your option) any later version.
+
+;; The library is distributed in the hope that it will be useful,
+;; but WITHOUT ANY WARRANTY; without even the implied warranty of
+;; MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+;; Lesser General Public License for more details.
+
+;; You should have received a copy of the GNU Lesser General Public
+;; License along with the library; if not, write to the Free
+;; Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA
+;; 02111-1307, USA.
+
+(input-method ml remington)
+
+(description "Malayalam input method for Remington typewriter layout.
+Author: Sebin Abraham Jacob <sebinajacob@gmail.com>, Icons: Hiran Venugopal <hiran.v@gmail.com>
+")
+
+(title "റ")
+
+(map
+ (trans
+  ("~" "‍") 			; zero width joiner
+ ("`" "‌")  			; zero width non joiner
+ ("!" "ഝ")
+  ("1" "൧")
+ ("@" "ആ")
+  ("2" "൨")
+  ("#" "ഈ")
+  ("3" "൩")
+ ("$" "ഊ")
+  ("4" "൪")
+  ("%" "ഏ")
+  ("5" "൫")
+ ("^" "ഐ")
+  ("6" "൬")
+ ("&" "ഓ")
+  ("7" "൭")
+ ("*" "ഔ")
+  ("8" "൮")
+ ("(" "ൊ")
+  ("9" "൯")
+  (")" "ോ")
+  ("0" "൦")
+  ("_" "ഠ")
+ ("-" "-")
+  ("+" "ൗ")
+  ("=" "ൈ")
+ ("Q" "ഒ")
+ ("q" "ഴ")
+ ("W" "ഋ")
+ ("w" "ജ")
+ ("E" "ഫ")
+ ("e" "പ")
+ ("R" "ന്‍")
+ ("r" "ന")
+ ("T" "ഇ")
+ ("t" "എ")
+ ("Y" "്ര")
+ ("y" "റ")
+ ("U" "്യ")
+ ("u" "യ")
+ ("I" "്വ")
+ ("i" "വ")
+ ("O" "ൌ")
+ ("o" "ൂ")
+ ("P" "ധ")
+ ("p" "ദ")
+  ("{" "ൃ")
+  ("[" ",")
+  ("}" "ട്ട")
+ ("]" "ക്ക")
+  ("|" "ക്‍")
+ ("\\" "്")
+ ("A" "ം")
+ ("a" "മ")
+ ("S" "േ")
+ ("s" "െ")
+ ("D" "ഖ")
+ ("d" "ക")
+ ("F" "ഥ")
+ ("f" "ത")
+ ("G" "ര്‍")
+ ("g" "ര")
+ ("H" "ല്‍")
+ ("h" "ല")
+ ("J" "ീ")
+ ("j" "ി")
+ ("K" "ഉ")
+ ("k" "ു")
+ ("L" "അ")
+ ("l" "ാ")
+  (":" ";") 
+  ("\;" ".")
+  ("\"" "ഃ")
+  ("'" "ന്ന")
+ ("Z" "ഘ") 
+ ("z" "ഗ")
+ ("X" "ള്‍")
+ ("x" "ള")
+ ("C" "ശ")
+ ("c" "സ")
+ ("V" "ഛ")
+ ("v" "ച")
+ ("B" "ഞ")
+ ("b" "ണ")
+ ("N" "ണ്‍")
+ ("n" "ങ")
+ ("M" "റ്റ")
+ ("m" "ട")
+  ("<" "ഹ")
+  ("," "ഷ")
+  (">" "ബ")
+  ("." "ഭ")
+  ("?" "ഢ")
+  ("/" "ഡ")
+  ("Ll" "ആ")
+  ("TJ" "ഈ")
+  ("Tl" "ഈ")
+  ("Ko" "ഊ")
+  ("Kl" "ഊ")
+  ("tS" "ഏ")
+  ("tl" "ഏ")
+  ("Q)" "ഓ")
+  ("Ql" "ഓ")
+  ("Hk" "ഌ")
+  ("Ho" "ൡ")
+  ("Wk" "ൠ")
+  ("E\"" "ഽ")
+  ))
+
+(state
+  (init
+    (trans)))
+
+
+
