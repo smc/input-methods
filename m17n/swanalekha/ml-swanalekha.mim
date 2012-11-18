@@ -25,12 +25,13 @@
 
 (title "സ്വനലേഖ")
 (variable
-  (candidates-group-size))
+  (candidates-group-size)
+  (show-lookup (_"Show lookup table") 1))
 
 (map
  (starter
-  ("~") ("@") ("^") 
-  ("0") ("1") ("2") ("3") ("4") ("~") 
+  ("~") ("@") ("^")
+  ("0") ("1") ("2") ("3") ("4") ("~")
   ("5") ("6") ("7") ("8") ("9") ("_")
   ("A") ("C") ("D") ("G") ("H") ("I") ("J") ("K") ("L")
   ("M") ("N") ("O") ("Q") ("R") ("S") ("T") ("U") ("Y")
@@ -1602,7 +1603,7 @@
   )
 )
 
- 
+
 
 (map
  ;; Typing 1, 2, ..., 0 selects the 0th, 1st, ..., 9th candidate.
@@ -1646,14 +1647,14 @@
 (state
   ;; When an initial character is typed, re-handle it in "main" state.
  (init
-  (starter (show) (pushback 1) (shift main)))
+  (starter (cond ( (= show-lookup 1) (show) ) ) (pushback 1) (shift main)))
 
  (main
   ;; When a complete sequence is typed, shift to "select" state
   ;; to allow users to select one from the candidates.
   (map (shift select))
   (nil (hide) (shift check-undo))))
- 
+
 
 (state
  (check-undo
@@ -1677,7 +1678,7 @@
   ;; When anything else is typed, produce the current candidate,
   ;; and re-handle the last input in "init" state.
   (nil (hide) (shift init))))
- 
+
 ;; Local Variables:
 ;; mode: lisp
 ;; coding: utf-8
