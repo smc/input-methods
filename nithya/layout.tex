@@ -1,0 +1,213 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[
+    top=.875in,
+    bottom=.875in,
+    left=.2in,
+    right=.1in
+    ]{geometry}
+
+\usepackage{fontspec}
+\usepackage{xunicode}
+\usepackage{fontspec}
+\usepackage{polyglossia}
+\setdefaultlanguage{malayalam}
+\setmainfont[Script=Malayalam, HyphenChar="200C]{Rachana}
+
+%\usepackage{pslatex}
+\usepackage[]{amsmath}
+\usepackage{tikz}
+\usepackage{pgffor}
+\usetikzlibrary{backgrounds}
+\usetikzlibrary{calc}
+\usetikzlibrary{matrix}
+\usetikzlibrary{shapes.multipart}
+\usetikzlibrary{positioning,shapes,shadows,petri}
+\usepackage{pgffor}
+
+\newcommand{\mykey}[4]{
+\begin{tikzpicture}
+\draw [thick] (0,0) rectangle (1.1, 1.1);
+\node at (.22,.25) {\large #1};
+\node at (.22,.8) {\Large #2};
+\node at (.7,.25) {\Large #3};
+\node at (.7,.8) {\Large #4};
+\end{tikzpicture}}
+
+\newcommand{\smallkey}[4]{
+\begin{tikzpicture}
+\draw [thick] (0,0) rectangle (1.1, 1.1);
+\node at (.22,.25) {\large #1};
+\node at (.22,.8) {\Large #2};
+\node at (.7,.25) {\tiny #3};
+\node at (.7,.8) {\Large #4};
+\end{tikzpicture}}
+
+\newcommand{\backspacekey}{
+\begin{tikzpicture}
+\draw [thick] (-1,-0.1) rectangle (1.2, 1.0);
+\node at (.1,.65) {\large Backspace};
+\draw [<-,thick] (-0.78, .38) -- (0.19, .38);
+\end{tikzpicture}}
+
+\newcommand{\tabkey}{
+\begin{tikzpicture}
+\draw [thick] (-1.0,-0.1) rectangle (0.6, 1.0);
+\node at (-0.45,.65) {\large Tab};
+\draw [|<-,thick] (-0.78, .35) -- (0.19, .35);
+\draw [->|,thick] (-0.78, .15) -- (0.19, .15);
+\end{tikzpicture}}
+
+\newcommand{\capslockkey}{
+\begin{tikzpicture}
+\draw [thick] (-1.0,-0.1) rectangle (1.2, 1.0);
+\node at (0,.65) {\large Caps Lock};
+\end{tikzpicture}}
+
+\newcommand{\enterkey}{
+\begin{tikzpicture}
+\draw [thick] (-1.0,-0.1) rectangle (1.2, 1.0);
+\node at (-0.35,.65) {\large Enter};
+\draw [<-,thick] (-0.78, .35) -- (0.19, .35);
+\draw [-,thick] (0.19, .35) -- (0.19, .49);
+
+\end{tikzpicture}}
+
+\newcommand{\shiftkey}{
+\begin{tikzpicture}
+\draw [thick] (-1.0,-0.1) rectangle (1.9, 1.0);
+\node at (-0.45,.65) {\large Shift};
+\end{tikzpicture}}
+
+\begin{document}
+
+\thispagestyle{empty}
+
+\begin{center}
+{\Huge Nithya Malayalam Keyboard Layout}\\[0.2cm]
+{\Large Version 0.1}\\[.8cm]
+\end{center}
+
+{\huge Normal Layout}\\[.5cm]
+
+\mykey{`}{\textasciitilde{}}{ൊ}{ഒ}
+\mykey{1}{!}{൧}{!}
+\mykey{2}{@}{൨}{@}
+\mykey{3}{\#}{൩}{ൎ}
+\mykey{4}{\$}{൪}{₹}
+\mykey{5}{\%}{൫}{\%}
+\mykey{6}{\textasciicircum}{൬}{ൿ}
+\mykey{7}{\&}{൭}{\&}
+\mykey{8}{*}{൮}{ൾ}
+\mykey{9}{(}{൯}{(}
+\mykey{0}{)}{൦}{)}
+\mykey{-}{\_}{-}{ഃ}
+\mykey{=}{+}{ൃ}{ഋ}
+\backspacekey{} \\[.1cm]
+\indent \tabkey{}
+\mykey{Q}{}{ൌ}{ഔ}
+\mykey{W}{}{ൈ}{ഐ}
+\mykey{E}{}{ാ}{ആ}
+\mykey{R}{}{ീ}{ഈ}
+\mykey{T}{}{ൂ}{ഊ}
+\mykey{Y}{}{ബ}{ഭ}
+\mykey{U}{}{ഹ}{ങ}
+\mykey{I}{}{ഗ}{ഘ}
+\mykey{O}{}{ദ}{ധ}
+\mykey{P}{}{ജ}{ഝ}
+\mykey{[}{\{}{ഡ}{ഢ}
+\smallkey{]}{\}}{ZWJ}{ഞ}
+\smallkey{\textbackslash{}}{|}{ZWNJ}{ർ} \\[.1cm]
+\indent \capslockkey{}
+\mykey{A}{}{ോ}{ഓ}
+\mykey{S}{}{േ}{ഏ}
+\mykey{D}{}{്}{അ}
+\mykey{F}{}{ി}{ഇ}
+\mykey{G}{}{ു}{ഉ}
+\mykey{H}{}{പ}{ഫ}
+\mykey{J}{}{ര}{റ}
+\mykey{K}{}{ക}{ഖ}
+\mykey{L}{}{ത}{ഥ}
+\mykey{;}{:}{ച}{ഛ}
+\mykey{'}{"}{ട}{ഠ}
+\enterkey{}  \\[.1cm]
+\indent \shiftkey{}
+\mykey{Z}{}{െ}{എ}
+\mykey{X}{}{ം}{ൺ}
+\mykey{C}{}{മ}{ണ}
+\mykey{V}{}{ന}{ൻ}
+\mykey{B}{}{വ}{ഴ}
+\mykey{N}{}{ല}{ള}
+\mykey{M}{}{സ}{ശ}
+\mykey{,}{<}{,}{ഷ}
+\mykey{.}{>}{.}{ൽ}
+\mykey{/}{?}{യ}{?}
+\shiftkey{}
+
+\vspace*{1cm}
+
+{\huge Extended Layout}\\[.5cm]
+
+\mykey{}{}{}{}
+\mykey{1}{!}{}{൰}
+\mykey{2}{@}{}{൱}
+\mykey{3}{\#}{}{൲}
+\mykey{4}{\$}{}{൳}
+\mykey{5}{\%}{}{൴}
+\mykey{6}{\textasciicircum}{}{൵}
+\mykey{}{}{}{}
+\mykey{}{}{}{}
+\mykey{}{}{}{}
+\mykey{}{}{}{}
+\mykey{}{}{}{}
+\mykey{=}{+}{ൄ}{ൠ}
+\backspacekey{} \\[.1cm]
+\indent \tabkey{}
+\mykey{Q}{}{ൗ}{}
+\mykey{}{}{}{}
+\mykey{}{}{}{}
+\mykey{R}{}{ൣ}{ൡ}
+\mykey{}{}{}{}
+\mykey{}{}{}{}
+\mykey{}{}{}{}
+\mykey{}{}{}{}
+\mykey{}{}{}{}
+\mykey{}{}{}{}
+\mykey{}{}{}{}
+\smallkey{}{}{}{}
+\smallkey{}{}{}{} \\[.1cm]
+\indent \capslockkey{}
+\mykey{}{}{}{}
+\mykey{}{}{}{}
+\mykey{}{}{}{}
+\mykey{F}{}{ൢ}{ഌ}
+\mykey{}{}{}{}
+\mykey{}{}{}{}
+\mykey{J}{}{}{ഺ}
+\mykey{}{}{}{}
+\mykey{}{}{}{}
+\mykey{}{}{}{}
+\mykey{}{}{}{}
+\enterkey{}  \\[.1cm]
+\indent \shiftkey{}
+\mykey{}{}{}{}
+\mykey{}{}{}{}
+\mykey{}{}{}{}
+\mykey{V}{}{൹}{}
+\mykey{}{}{}{}
+\mykey{}{}{}{}
+\mykey{}{}{}{}
+\mykey{}{}{}{}
+\mykey{.}{>}{}{ഽ}
+\mykey{}{}{}{}
+\shiftkey{}
+
+\vspace*{1cm}
+
+{\bfseries Note:} Press and hold "Alt Gr" (Right Alt) to enter the first character in the extended
+layout.  Press and hold\\
+\indent "Alt Gr" (Right Alt) and Shift together to enter the second character in the extended
+layout.  Refer desktop user manual\\
+\indent to enable the extended layout.  For example, to enable "Alt Gr" key in Gnome:\\
+\indent Settings -> Keyboard -> Shortcuts -> Typing -> Alternative Characters Key -> Right Alt\\[2cm]
+
+\end{document}

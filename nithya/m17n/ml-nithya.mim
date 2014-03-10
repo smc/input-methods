@@ -1,0 +1,289 @@
+;; ml-nithya.mim -- Malayalam input method for Nithya layout
+;; Copyright 2014 Swathanthra Malayalam Computing
+
+;; This program is free software; you can redistribute it and/or modify
+;; it under the terms of the GNU Lesser General Public License as published by
+;; the Free Software Foundation; either version 2.1 of the License, or
+;; (at your option) any later version.
+
+;; This program is distributed in the hope that it will be useful,
+;; but WITHOUT ANY WARRANTY; without even the implied warranty of
+;; MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+;; Lesser General Public License for more details.
+
+;; You should have received a copy of the GNU Lesser General Public
+;; License along with the m17n library; if not, write to the Free
+;; Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+;; Boston, MA 02110-1301, USA.
+
+(input-method ml nithya)
+
+(description "Malayalam input method for Nithya layout.
+
+Nithya is a keyboard layout scheme to input Malayalam text on computer.
+Each key on keyboard is mapped to a Malayalam alphabet.
+
+To type Malayalam numbers (൦-൯) in press 0-9 on keyboard.  For English
+numerals, switch back to English keyboard using keyboard layout
+swither and press 0-9.
+
+Special Keys:
+
+1. key ']' is mapped to Zero Width Joiner (ZWJ) which helps you to
+   write the five chillaksharam.
+
+2. key '\\' is mapped to Zero Width Non Joiner (ZWNJ) which helps you
+   to stop the consonants from joining to form conjuncts.
+
+[Note: consonants are ക, ഖ, ഗ etc. and conjuncts are those formed
+using two consonants like ക്ക, ഗ്ഗ, ന്ത, ക്യ, ക്വ etc.]
+
+Following are the common conjuncts formed in Malayalam language, shown
+along with the keys to reproduce them:
+
+Case 1:
+CHILLU aksharam:
+(i) ന്‍   =   ന + ് + zero width joiner(zwj)
+ie,    key 'V' + key 'D' + key ']'    
+
+(ii) ല്‍   =   ല + ് + zero width joiner(zwj)
+ie,    key 'N' + key 'D' + key ']'    
+
+(iii) ര്‍   =   ര + ് + zero width joiner(zwj)
+ie,    key 'J' + key 'D' + key ']'   
+
+(iv) ണ്‍   =   ണ + ് + zero width joiner(zwj)
+ie,    shift key 'C' + key 'D' + key ']' 
+
+(v) ള്‍   =   ള + ് + zero width joiner(zwj)
+ie,    shift key 'N' + key 'D' + key ']'
+         
+Case 2:
+(i) ങ്ങ   =   ങ +  ്  +  ക
+ie, shift key 'U' + key 'D' + key 'K'               
+
+(ii) ന്ത   =   ന + ് + ത
+ie, key 'V'  + key 'D' + key 'L'
+
+(iii) ഞ്ച   =    ഞ + ് + ച
+ie, shift key '}' + key 'D' + key ';'
+
+(iv) ണ്ട   =   ണ + ് + ട
+ie, shift key 'C' + key 'D' + key '\"'
+
+(v) മ്പ   =   മ + ് + പ
+ie, key 'V' + key 'D' + key 'H'
+
+(vi) ക്ഷ   =    ക + ് + ഷ
+ie, key 'C' + key 'D' + shift key '<'
+
+Case 3:
+Koottaksharangal:
+
+(i) ക്ക   =   ക + ് + ക
+ie, key 'K' + key 'D' + key 'K'
+
+(ii) ങ്ങ   =   ങ + ് + ങ
+ie, shift key 'U' + key 'D' + shift key 'U'
+
+(iii) ച്ച   =   ച + ് + ച
+ie, key ';' + key 'D' + key ';'
+
+(iv) ഞ്ഞ   =   ഞ + ് + ഞ
+ie, shift key '}' + key 'D' + shift key '}'
+
+(v) ട്ട   =   ട + ് + ട
+ie, key '\"' + key 'D' + key '\"' 
+
+(vi) ണ്ണ   =   ണ + ് + ണ 
+ie, shift key 'C' + key 'D' + shift key 'C' 
+
+(vii) ത്ത   =   ത + ് + ത
+ie, key 'L' + key 'D' +  key 'L' 
+
+(viii) ന്ന   =   ന + ് + ന
+ie, key 'V' + key 'D' +  key 'V' 
+
+(ix) മ്മ   =   മ + ് + മ
+ie, key 'C' + key 'D' + key 'C'
+
+(x) ല്ല   =   ല + ് + ല
+ie, key 'N' + key 'D' + key 'N' 
+
+(xi) വ്വ   =   വ + ് + വ
+ie, key 'B' + key 'D' + key 'B'
+
+(xii) യ്യ   =   യ + ് + യ
+ie, key '?' + key 'D' + key '?'
+
+(xiii) ശ്ശ   =   ശ + ് + ശ 
+ie, shift key 'M' + key 'D' + shift key 'M' 
+
+(xiv) സ്സ   =   സ  + ് + സ
+ie, key 'M' + key 'D' + key 'M' 
+
+(xv) ള്ള   =   ള + ് + ള
+ie, shift key 'N' + key 'D' + shift key 'N'
+
+(xvi) റ്റ   =   റ + ് + റ
+ie, shift key 'J' + key 'D' + shift key 'J'
+
+Case 4:
+(Following conjuncts are explained with the help of consonant 'ക')
+
+(1) Conjuncts formed with ര (ra):
+ ക്ര   =   ക + ് + ര
+ie, key 'K' + key 'D' + key 'J'
+
+(2) Conjuncts formed with യ (ya):
+ ക്യ   =   ക + ് + യ
+ie, key 'K' + key 'D' + key '?'
+
+(3) Conjuncts formed with വ (va):
+ ക്വ   =   ക + ് + വ
+ie, key 'K' + key 'D' + key 'B'
+
+Special case:
+
+ന്റ   =   ന + ് + റ
+ie, key 'V' + key 'D' + shift key 'J'
+
+")
+
+(title "ക")
+
+(map
+ (trans
+ 
+  ((KP_1) "൧")
+  ((KP_2) "൨")
+  ((KP_3) "൩")
+  ((KP_4) "൪")
+  ((KP_5) "൫")
+  ((KP_6) "൬")
+  ((KP_7) "൭")
+  ((KP_8) "൮")
+  ((KP_9) "൯")
+  ((KP_0) "൦")
+  ((KP_Decimal) ".")
+  ((KP_Divide) "/")
+  ((KP_Multiply) "*")
+  ((KP_Add) "+")
+  ((KP_Subtract) "-") 
+ 
+  ("!" "!")
+  ("1" "൧")
+  ((G-!) "൰")
+  ("@" "@")
+  ("2" "൨")
+  ((G-@) "൱")
+     ("#" "ൎ")
+  ("3" "൩")
+  ((G-#) "൲")
+  ("$" "₹")
+  ("4" "൪")
+  ((G-$) "൳")
+  ("%" "%")
+  ("5" "൫")
+  ((G-%) "൴")
+  ("^" "ൿ")
+  ("6" "൬")
+  ((G-^) "൵")
+  ("7" "൭")
+  ("*" "ൾ")
+  ("8" "൮")
+  ("(" "(")
+  ("9" "൯")
+  (")" ")")
+  ("0" "൦")
+  ("_" "ഃ")
+  ("-" "-")
+  ("+" "ഋ")
+   ((G-+) "ൠ")
+  ("=" "ൃ")
+   ((G-=) "ൄ")
+  ("Q" "ഔ")
+  ("q" "ൌ")
+  ((G-q) "ൗ")
+  ("W" "ഐ")
+  ("w" "ൈ")
+  ("E" "ആ")
+  ("e" "ാ")
+  ("R" "ഈ")
+  ((G-R) "ൡ")
+  ("r" "ീ")
+  ((G-r) "ൣ")
+  ("T" "ഊ")
+  ("t" "ൂ")
+  ("Y" "ഭ")
+  ("y" "ബ")
+  ("U" "ങ")
+  ("u" "ഹ")
+  ("I" "ഘ")
+  ("i" "ഗ")
+  ("O" "ധ")
+  ("o" "ദ")
+  ("P" "ഝ")
+  ("p" "ജ")
+  ("{" "ഢ")
+  ("[" "ഡ")
+  ("}" "ഞ")
+  ("]" "‍")
+  ("|" "ർ")
+  ("A" "ഓ")
+  ("a" "ോ")
+  ("S" "ഏ")
+  ("s" "േ")
+  ("D" "അ")
+  ("d" "്")
+  ("F" "ഇ")
+  ((G-F) "ഌ")
+  ("f" "ി")
+  ((G-f) "ൢ")
+  ("G" "ഉ")
+  ("g" "ു")
+  ("H" "ഫ")
+  ("h" "പ")
+  ("J" "റ")
+  ((G-J) "ഺ")
+  ("j" "ര")
+  ("K" "ഖ")
+  ("k" "ക")
+  ("L" "ഥ")
+  ("l" "ത")
+  (":" "ഛ")
+  (";" "ച")
+  ("\"" "ഠ")
+  ("'" "ട")
+  ("|" "|")
+  ("\\" "‌")
+  ("~" "ഒ")
+  ("`" "ൊ")
+  ("Z" "എ")
+  ("z" "െ")
+  ("X" "ൺ")
+  ("x" "ം")
+  ("C" "ണ")
+  ("c" "മ")
+  ("V" "ൻ")
+  ("v" "ന")
+  ((G-v) "൹")
+  ("B" "ഴ")
+  ("b" "വ")
+  ("N" "ള")
+  ("n" "ല")
+  ("M" "ശ")
+  ("m" "സ")
+  ("<" "ഷ")
+  ("," ",")
+  (">" "ൽ")
+  ("." ".")
+  ("/" "യ")
+ ((G->) "ഽ")
+  ("#" "#")
+  ("&" "&")
+  ))
+
+(state
+  (init
+    (trans)))
