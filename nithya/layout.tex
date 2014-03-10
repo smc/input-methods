@@ -2,7 +2,7 @@
 \usepackage[
     top=.875in,
     bottom=.875in,
-    left=.2in,
+    left=.1in,
     right=.1in
     ]{geometry}
 
@@ -27,8 +27,8 @@
 \newcommand{\mykey}[4]{
 \begin{tikzpicture}
 \draw [thick] (0,0) rectangle (1.1, 1.1);
-\node at (.22,.25) {\large #1};
-\node at (.22,.8) {\Large #2};
+\node at (.19,.25) {\large #1};
+\node at (.24,.8) {\Large #2};
 \node at (.7,.25) {\Large #3};
 \node at (.7,.8) {\Large #4};
 \end{tikzpicture}}
@@ -40,6 +40,15 @@
 \node at (.22,.8) {\Large #2};
 \node at (.7,.25) {\tiny #3};
 \node at (.7,.8) {\Large #4};
+\end{tikzpicture}}
+
+\newcommand{\extrfkey}[4]{
+\begin{tikzpicture}
+\draw [thick] (0,0) rectangle (1.1, 1.1);
+\node at (.19, .25) {\large #1};
+\node at (.22, .8) {\Large #2};
+\node at (.9, .25) {\Large #3};
+\node at (.7, .8) {\Large #4};
 \end{tikzpicture}}
 
 \newcommand{\backspacekey}{
@@ -84,8 +93,12 @@
 
 \begin{center}
 {\Huge Nithya Malayalam Keyboard Layout}\\[0.2cm]
-{\Large Version 0.1}\\[.8cm]
+{\Large Version 0.2}\\[.8cm]
 \end{center}
+
+{\huge Introduction}\\[.5cm]
+
+
 
 {\huge Normal Layout}\\[.5cm]
 
@@ -165,7 +178,7 @@
 \mykey{Q}{}{ൗ}{}
 \mykey{}{}{}{}
 \mykey{}{}{}{}
-\mykey{R}{}{ൣ}{ൡ}
+\extrfkey{R}{}{ൣ}{ൡ}
 \mykey{}{}{}{}
 \mykey{}{}{}{}
 \mykey{}{}{}{}
@@ -179,7 +192,7 @@
 \mykey{}{}{}{}
 \mykey{}{}{}{}
 \mykey{}{}{}{}
-\mykey{F}{}{ൢ}{ഌ}
+\extrfkey{F}{}{ൢ}{ഌ}
 \mykey{}{}{}{}
 \mykey{}{}{}{}
 \mykey{J}{}{}{ഺ}
@@ -209,5 +222,21 @@ layout.  Press and hold\\
 layout.  Refer desktop user manual\\
 \indent to enable the extended layout.  For example, to enable "Alt Gr" key in Gnome:\\
 \indent Settings -> Keyboard -> Shortcuts -> Typing -> Alternative Characters Key -> Right Alt\\[2cm]
+
+\vspace*{1cm}
+
+{\huge ChangeLog}\\[.5cm]
+
+\begin{itemize}
+\item 0.2 (YYY-MM-DD Not yet released)
+\begin{itemize}
+\item Removed "." character in the extended layout from "." \& ">" key
+\end{itemize}
+
+\item 0.1 (2014-03-08)
+\begin{itemize}
+\item initial release
+\end{itemize}
+\end{itemize}
 
 \end{document}
