@@ -11,22 +11,22 @@ xkb_symbols "mal_nithya" {
 
     //From grave to backslash (\)
 
-    key <TLDE> { [ U0d4a , U0d12       ] };
+    key <TLDE> { [ U0d4a , U0d12                        ] };
 
-    key <AE01> { [ U0d67 ,      exclam , NoSymbol , U0d70 ] };
-    key <AE02> { [ U0d68 ,          at , NoSymbol , U0d71 ] };
-    key <AE03> { [ U0d69 ,       U0d4e , NoSymbol , U0d72 ] };
-    key <AE04> { [ U0d6a ,      U20b9  , NoSymbol , U0d73 ] };
-    key <AE05> { [ U0d6b ,     percent , NoSymbol , U0d74 ] };
-    key <AE06> { [ U0d6c ,       U0d7f , NoSymbol , U0d75 ] };
-    key <AE07> { [ U0d6d ,   ampersand ] };
-    key <AE08> { [ U0d6e ,       U0d7e ] };
-    key <AE09> { [ U0d6f ,   parenleft ] };
-    key <AE10> { [ U0d66 ,  parenright ] };
+    key <AE01> { [ U0d67 , exclam    , NoSymbol , U0d70 ] };
+    key <AE02> { [ U0d68 , at        , NoSymbol , U0d71 ] };
+    key <AE03> { [ U0d69 , U0d4e     , NoSymbol , U0d72 ] };
+    key <AE04> { [ U0d6a , U20b9     , NoSymbol , U0d73 ] };
+    key <AE05> { [ U0d6b , percent   , NoSymbol , U0d74 ] };
+    key <AE06> { [ U0d6c , U0d7f     , NoSymbol , U0d75 ] };
+    key <AE07> { [ U0d6d , ampersand                    ] };
+    key <AE08> { [ U0d6e , U0d7e                        ] };
+    key <AE09> { [ U0d6f , parenleft                    ] };
+    key <AE10> { [ U0d66 , parenright                   ] };
 
-    key <AE11> { [ minus  , U0d03                 ] };
-    key <AE12> { [ U0d43  , U0d0b , U0d44 , U0d60 ] };
-    key <BKSL> { [ U0200c , U0d7c                 ] }; //bksl: ZWNJ
+    key <AE11> { [ minus  , U0d03                       ] };
+    key <AE12> { [ U0d43  , U0d0b , U0d44 , U0d60       ] };
+    key <BKSL> { [ U0200c , U0d7c                       ] }; //bksl: ZWNJ
 
 
     // From 'q' to right bracket (])
@@ -60,16 +60,16 @@ xkb_symbols "mal_nithya" {
 
     // From 'z' to slash (/)
 
-    key <AB01> { [ U0d46  , U0d0e                    ] };
-    key <AB02> { [ U0d02  , U0d7a                    ] };
-    key <AB03> { [ U0d2e  , U0d23                    ] };
-    key <AB04> { [ U0d28  , U0d7b , U0d79            ] };
-    key <AB05> { [ U0d35  , U0d34                    ] };
-    key <AB06> { [ U0d32  , U0d33                    ] };
-    key <AB07> { [ U0d38  , U0d36                    ] };
-    key <AB08> { [ comma  , U0d37                    ] };
-    key <AB09> { [ period , U0d7d , NoSymbol , U0d3d ] };
-    key <AB10> { [ U0d2f  , question                 ] };
+    key <AB01> { [ U0d46  , U0d0e                       ] };
+    key <AB02> { [ U0d02  , U0d7a                       ] };
+    key <AB03> { [ U0d2e  , U0d23                       ] };
+    key <AB04> { [ U0d28  , U0d7b    , U0d79            ] };
+    key <AB05> { [ U0d35  , U0d34                       ] };
+    key <AB06> { [ U0d32  , U0d33                       ] };
+    key <AB07> { [ U0d38  , U0d36                       ] };
+    key <AB08> { [ comma  , U0d37                       ] };
+    key <AB09> { [ period , U0d7d    , NoSymbol , U0d3d ] };
+    key <AB10> { [ U0d2f  , question                    ] };
 
     include "level3(ralt_switch)"
 };
