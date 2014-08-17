@@ -1,30 +1,93 @@
 <html>
-<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" >
 
-
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<style>
+		.swanalekha {
+			border-left: 3px solid #cc0000;
+		}
+		h1 {
+			text-align: center;
+			color: #cc0000;
+		}
+		.container {
+			width: 50%;
+			margin-left: 25%;
+			padding: 10px;
+			color: #333;
+			box-shadow: 0 0 5px #888;
+			border-radius: 2px;
+		}
+		.instruction {
+			font-size: small;
+			color: #777;
+		}
+		textarea {
+			width: 100%;
+			font-size: larger;
+			padding: 10px;
+			height: 50%;
+			border-radius: 2px;
+			font-family: "Meera", "Rachana", sans-serif;
+		}
+		footer {
+			font-size: smaller;
+		}
+		a {
+			color: #333;
+		}
+		a:hover {
+			color: #cc0000;
+		}
+		pre {
+			border-left: 5px solid #ccc;
+			border-radius: 5px;
+			background-color: #eee;
+			padding: 10px;
+		}
+	</style>
 </head>
 <title>Swanalekha Malayalam</title>
 <script src="swanalekha-ml.js"></script>
+<script>
+	window.onload = function () {
+		swanalekha(document.getElementsByTagName('textarea')[0], {
+			enabled: true
+		});
+	};
+</script>
+
 <body>
-<table width="100%">
-<tr  bgcolor="lightblue"><td COLSPAN="2"><center>
-<h2>Swanalekha Malayalam</h2></center></td></tr>
-<tr><td>Press control+m to toggle.</td>
-<tr><td>
-<form id="xyz">
-<textarea id='xy' cols="100" rows="25"></textarea>
-</form></td>
-</tr>
-<tr><td>
-To use this transliteration scheme in your webpage, include <a href="swanalekha-ml.js"> this javascript file</a> in 
-html pages. To add this to a wiki copy the contents of <a href="swanalekha-ml.js"> this javascript file</a>  to Mediawiki:Common.js file.
-</td>
-<tr><td>
-<a href="swanalekha.html">Swanalekha Malayalam</a></td>
-</tr>
-<tr><td>
-Developed by <a href="http://santhoshtr.livejournal.com">Santhosh Thottingal</a></td>
-</tr>
-</table>
+	<div class="container">
+		<h1>സ്വനലേഖ</h1>
+		<p class="instruction">Press control+m to enable and disable swanalekha.</p>
+		<textarea></textarea>
+		<p class="instruction">Uses transliteration. Example: neela = നീല, puka=പുക. avan~= അവന്‍ Refer
+			<a href="http://wiki.smc.org.in/Swanalekha">swanalekha rules</a> to learn typing. Press tab after a letter to choose from suggestions. Example sa=സ, sa[tab]=ശ, avan = അവന്, avan[tab] = അവന്‍
+		</p>
+		<h2>Usage</h2>
+		<p>
+			To use this transliteration scheme in your webpage, download and include <a href=" swanalekha-ml.js ">this javascript file</a> in html pages.</p>
+		<pre>&lt;script src="/path/to/swanalekha-ml.js"&gt;&lt;/script&gt;</pre>
+		<p>Then bind swanalekha to textareas and input fields. Example:</p>
+		<pre>swanalekha(document.getElementsByTagName('textarea')[0]);</pre>
+		<p>By default, the swanalekha input method is not enabled. It is enabled when users press control+m in the input field. If you want the input method enabled by default, pass it as an option.</p>
+		<pre>swanalekha(document.getElementsByTagName('textarea')[0], {enabled:true});</pre>
+		<p>Once enabled, the input field will have a class swanalekha. This class can be used for providing any kind of visual indication that input method is enabled. This page uses the following style to indicate swanalekha is enabled.</p>
+		<pre>.swanalekha {border-left: 3px solid #cc0000;}</pre>
+		<footer>&copy; <a href="http://thottingal.in ">Santhosh Thottingal</a>, 2014, MIT license
+		</footer>
+	</div>
 </body>
+
 </html>
+
+
+
+
+
+
+
+
+
+
