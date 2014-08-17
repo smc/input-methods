@@ -2172,7 +2172,7 @@ var rules = {
 function swanalekha(widget, options) {
 	var pattern, patternStart, tabCount;
 
-	widget.enabled = options.enabled || false;
+	widget.enabled = options && options.enabled || false;
 
 	if (widget.enabled) {
 		widget.className = widget.className + ' swanalekha';
@@ -2265,7 +2265,7 @@ function swanalekha(widget, options) {
 			if (isExplorer()) {
 				range = document.selection.createRange();
 				stepback = range - patternStart;
-				range.moveStart("character", -stepback);
+				range.moveStart('character', -stepback);
 				range.text = mal;
 				range.collapse(false);
 				range.select();
