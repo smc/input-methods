@@ -2225,8 +2225,8 @@ function swanalekha(widget, options) {
 			tabCount = 1;
 			return;
 		}
-		else if (kCode === 32 tabCount >1) {
-			return true;
+		else if (kCode === 32 && tabCount >1) { // Space key fix after tab key
+			return true; 
 		}
 
 		if (event.ctrlKey || event.altKey || event.metaKey) {
