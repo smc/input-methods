@@ -1164,7 +1164,7 @@ var rules = {
 	pi2: 'പൈ',
 	pi3: 'പ്പി',
 	Pi: 'പി',
-	Pi2: 'പൈ',
+	// Pi2: 'പൈ', Repeated lateral on line 1203
 	pii: 'പീ',
 	pee: 'പീ',
 	Pee: 'പീ',
@@ -2225,6 +2225,10 @@ function swanalekha(widget, options) {
 			tabCount = 1;
 			return;
 		}
+		else if (kCode === 32 && tabCount >1) { // Space key fix after tab key
+			return true; 
+		}
+
 		if (event.ctrlKey || event.altKey || event.metaKey) {
 			return true;
 		}
